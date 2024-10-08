@@ -1,0 +1,2820 @@
+{
+  "prodotti": [
+    {
+      "id": 1,
+      "nome": "Nike Air Max 270",
+      "categoria": "Sneakers",
+      "prezzo": 129.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Grigio",
+        "Blu",
+        "Rosso"
+      ],
+      "descrizione": "Le Nike Air Max 270 offrono un comfort incredibile grazie all'ammortizzazione Air Max. Ideali per l'uso quotidiano e l'attività sportiva.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/gorfwjchoasrrzr1fggt/AIR+MAX+270.png",
+      "nuovo_arrivi": false,
+      "best_seller": 4
+    },
+    {
+      "id": 2,
+      "nome": "Nike React Infinity Run Flyknit",
+      "categoria": "Running",
+      "prezzo": 159.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero/Giallo",
+        "Grigio/Blu",
+        "Bianco/Rosso",
+        "Verde",
+        "Blu"
+      ],
+      "descrizione": "Le Nike React Infinity Run Flyknit sono progettate per la massima ammortizzazione e stabilità durante la corsa. Con tomaia in Flyknit per un comfort superiore.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8eb5e8dd-3f76-4024-946d-434c42c9aa2a/W+NIKE+REACTX+INFINITY+RUN+4.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 3,
+      "nome": "Nike Air Force 1",
+      "categoria": "Sneakers",
+      "prezzo": 109.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Bianco",
+        "Nero",
+        "Rosso",
+        "Blu",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Force 1 sono un'icona streetwear, caratterizzate da un design classico e un comfort eccezionale.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/AIR+FORCE+1+%2707.png",
+      "nuovo_arrivi": true,
+      "best_seller": 1
+    },
+    {
+      "id": 4,
+      "nome": "Nike Air Zoom Pegasus 38",
+      "categoria": "Running",
+      "prezzo": 119.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Grigio/Arancione",
+        "Bianco/Nero",
+        "Blu/Verde",
+        "Rosso",
+        "Nero"
+      ],
+      "descrizione": "Le Nike Air Zoom Pegasus 38 offrono una corsa reattiva e ammortizzata grazie all'unità Zoom Air. Ideali per runner di tutti i livelli.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/345a9e8e-29b7-4c1d-98e8-d03be07d7f28/AIR+ZOOM+PEGASUS+41.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 5,
+      "nome": "Nike Air Jordan 1 Mid",
+      "categoria": "Basket",
+      "prezzo": 149.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero/Rosso",
+        "Bianco/Nero",
+        "Blu/Rosso",
+        "Verde",
+        "Rosso/Bianco"
+      ],
+      "descrizione": "Le Nike Air Jordan 1 Mid sono scarpe da basket iconiche, ispirate al modello originale del 1985. Confortevoli e dal look distintivo.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/24750e81-85ed-4b0e-8cd8-becf0cd97b2f/WMNS+AIR+JORDAN+1+MID.png",
+      "nuovo_arrivi": true
+    },
+    {
+      "id": 6,
+      "nome": "Nike Revolution 5",
+      "categoria": "Running",
+      "prezzo": 79.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Grigio",
+        "Blu",
+        "Rosso"
+      ],
+      "descrizione": "Le Nike Revolution 5 sono scarpe leggere e traspiranti, ideali per correre o per l'uso quotidiano. Ottimo rapporto qualità-prezzo.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9bbdc0b1-604f-4bab-b2d0-add082ed6e7d/REVOLUTION+6+FLYEASE+NN+%28GS%29.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 7,
+      "nome": "Nike Air Zoom Structure 24",
+      "categoria": "Running",
+      "prezzo": 129.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero/Grigio",
+        "Bianco/Nero",
+        "Blu",
+        "Rosso",
+        "Verde"
+      ],
+      "descrizione": "Le Nike Air Zoom Structure 24 sono scarpe da corsa stabili e ammortizzate, ideali per runner che cercano supporto e comfort.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fbd237d6-821c-42ef-a115-686123417a56/W+NIKE+AIR+ZOOM+STRUCTURE+25.png",
+      "nuovo_arrivi": true
+    },
+    {
+      "id": 8,
+      "nome": "Nike Air Max 97",
+      "categoria": "Sneakers",
+      "prezzo": 179.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Argento",
+        "Nero",
+        "Oro",
+        "Rosso",
+        "Bianco"
+      ],
+      "descrizione": "Le Nike Air Max 97 sono sneakers iconiche caratterizzate da un design futuristico e un'ammortizzazione leggendaria.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5cbc21e7-886a-4265-80a1-2494e30daf51/WMNS+AIR+MAX+97.png",
+      "nuovo_arrivi": false,
+      "best_seller": 2
+    },
+    {
+      "id": 9,
+      "nome": "Nike Air Zoom Terra Kiger 7",
+      "categoria": "Trail Running",
+      "prezzo": 139.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero/Grigio",
+        "Blu",
+        "Verde",
+        "Rosso",
+        "Arancione"
+      ],
+      "descrizione": "Le Nike Air Zoom Terra Kiger 7 sono progettate per il trail running, offrendo trazione e stabilità su terreni accidentati.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3943f5d1-4ad9-4141-bfe3-c7e6dc64f365/NIKE+REACT+TERRA+KIGER+9.png",
+      "nuovo_arrivi": true
+    },
+    {
+      "id": 10,
+      "nome": "Nike Air VaporMax Plus",
+      "categoria": "Sneakers",
+      "prezzo": 209.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Verde"
+      ],
+      "descrizione": "Le Nike Air VaporMax Plus offrono un'esperienza di corsa leggera e reattiva grazie all'unità VaporMax a tutta lunghezza.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/67088401-10b3-4f8b-8dd9-d7c0905bc697/NIKE+AIR+MAX+PLUS+%28GS%29.png",
+      "nuovo_arrivi": true
+    },
+    {
+      "id": 11,
+      "nome": "Nike Air Max 90",
+      "categoria": "Sneakers",
+      "prezzo": 119.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Max 90 sono sneakers classiche con dettagli iconici, offrendo comfort e stile per tutti i giorni.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/367ba240-b2f6-4c1a-936f-e5abb2d639ec/NIKE+AIR+MAX+90+LTR+%28GS%29.png",
+      "nuovo_arrivi": false,
+      "best_seller": 3
+    },
+    {
+      "id": 12,
+      "nome": "Nike Air Zoom Vomero 16",
+      "categoria": "Running",
+      "prezzo": 149.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Verde"
+      ],
+      "descrizione": "Le Nike Air Zoom Vomero 16 sono scarpe da corsa ammortizzate e reattive, ideali per lunghe distanze e allenamenti intensi.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ebab25cb-8229-41f7-a002-6af84fc754a9/W+NIKE+VOMERO+17.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 13,
+      "nome": "Nike Air Jordan 4 Retro",
+      "categoria": "Basket",
+      "prezzo": 199.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero/Rosso",
+        "Bianco/Nero",
+        "Blu/Rosso",
+        "Grigio",
+        "Verde"
+      ],
+      "descrizione": "Le Nike Air Jordan 4 Retro sono scarpe da basket iconiche con dettagli classici e comfort eccezionale.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4847c04e-ecf7-4ce5-a27e-0d271467934f/AIR+FLIGHT+89+%28GS%29.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 14,
+      "nome": "Nike Blazer Mid '77 Vintage",
+      "categoria": "Sneakers",
+      "prezzo": 99.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Bianco",
+        "Nero",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Blazer Mid '77 Vintage sono sneakers retrò con uno stile distintivo e una tomaia in pelle premium.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fb7eda3c-5ac8-4d05-a18f-1c2c5e82e36e/BLAZER+MID+%2777+VNTG.png",
+      "nuovo_arrivi": true
+    },
+    {
+      "id": 15,
+      "nome": "Nike Air Max Excee",
+      "categoria": "Sneakers",
+      "prezzo": 89.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Bianco",
+        "Nero",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Max Excee sono ispirate alle iconiche Air Max 90, offrendo comfort e stile in un design moderno.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/dd301254-9e1f-4045-8c37-eb7c30ff92c2/NIKE+AIR+MAX+EXCEE.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 16,
+      "nome": "Nike Air Zoom SuperRep 2",
+      "categoria": "Training",
+      "prezzo": 129.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Verde"
+      ],
+      "descrizione": "Le Nike Air Zoom SuperRep 2 sono scarpe da training con ammortizzazione reattiva e supporto per gli allenamenti più intensi.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/41e9e295-f11a-4bf4-ab18-9d08ca7310d1/M+NIKE+AIR+ZOOM+TR+1.png",
+      "nuovo_arrivi": true
+    },
+    {
+      "id": 17,
+      "nome": "Nike Air Zoom Freak 3",
+      "categoria": "Basket",
+      "prezzo": 129.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero/Bianco",
+        "Rosso/Nero",
+        "Blu",
+        "Grigio",
+        "Verde"
+      ],
+      "descrizione": "Le Nike Air Zoom Freak 3 sono scarpe da basket progettate per la potenza e la velocità di Giannis Antetokounmpo. Massima trazione e stabilità.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2599bc05-e25a-4f30-9ac2-faa15c3c482e/NIKE+PRECISION+VII.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 18,
+      "nome": "Nike Renew Run",
+      "categoria": "Running",
+      "prezzo": 99.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Verde"
+      ],
+      "descrizione": "Le Nike Renew Run sono scarpe da corsa ammortizzate e leggere, ideali per corridori di tutti i livelli.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e076c8dc-ce73-4639-b4a2-3312ee219265/NIKE+AIR+WINFLO+11.png",
+      "nuovo_arrivi": true
+    },
+    {
+      "id": 19,
+      "nome": "Nike Air Max Sequent 4",
+      "categoria": "Sneakers",
+      "prezzo": 119.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Max Sequent 4 sono scarpe da corsa comode e versatili, ideali per l'uso quotidiano o l'allenamento leggero.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ec394094-477a-4063-b4b9-d23b178a3c8c/AIR+MAX+DN+%28GS%29.png",
+      "nuovo_arrivi": true
+    },
+    {
+      "id": 20,
+      "nome": "Nike Air Max 2090",
+      "categoria": "Sneakers",
+      "prezzo": 149.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Max 2090 sono ispirate all'iconica Air Max 90, con un design futuristico e un'ammortizzazione avanzata.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b512d40c-e6fc-4070-bc85-ba3a13f2992c/NIKE+AIR+MAX+PULSE+ROAM.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 21,
+      "nome": "Nike Joyride Run Flyknit",
+      "categoria": "Running",
+      "prezzo": 159.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Joyride Run Flyknit offrono un'esperienza di corsa rivoluzionaria grazie alla tecnologia di ammortizzazione a microsfere.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7c2d678c-7f10-40df-ba7d-0872137761c6/WMNS+ZOOM+FLY+5.png",
+      "nuovo_arrivi": true
+    },
+    {
+      "id": 22,
+      "nome": "Nike Air Max Tailwind IV",
+      "categoria": "Sneakers",
+      "prezzo": 129.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Max Tailwind IV sono scarpe da running retrò con un'ammortizzazione Air Max e uno stile distintivo.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0c1ddcaa-49e8-4467-aa30-2a04455aa469/NIKE+AIR+MAX+IVO.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 23,
+      "nome": "Nike Air Zoom Structure 23",
+      "categoria": "Running",
+      "prezzo": 129.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Zoom Structure 23 offrono supporto e stabilità per i runner, con un'ammortizzazione reattiva e una tomaia traspirante.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/66b649de-0c8e-45c6-8c8e-9ca713cd153e/W+NIKE+REACTX+PEGASUS+TRAIL+5.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 24,
+      "nome": "Nike Air Max 270 React",
+      "categoria": "Sneakers",
+      "prezzo": 159.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Max 270 React uniscono il comfort dell'unità Air Max con la reattività della tecnologia React.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e0288822-a342-4ef5-adae-fe5c0ee6a1de/NIKE+AIR+MAX+PULSE+GS.png",
+      "nuovo_arrivi": true
+    },
+    {
+      "id": 25,
+      "nome": "Nike Air Zoom Wildhorse 7",
+      "categoria": "Trail Running",
+      "prezzo": 139.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Zoom Wildhorse 7 sono scarpe da trail running progettate per la massima trazione e stabilità su terreni accidentati.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/389fca53-e1d7-4df0-8b57-170268e19408/NIKE+REACT+WILDHORSE+8.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 26,
+      "nome": "Nike React Infinity Run Flyknit 2",
+      "categoria": "Running",
+      "prezzo": 169.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike React Infinity Run Flyknit 2 sono scarpe da corsa con una tomaia in Flyknit e un'ammortizzazione reattiva per una corsa fluida.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9df54a71-eb47-4a79-a718-3d8eb34c3a81/NIKE+FREE+RN+FK+NEXT+NATURE.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 27,
+      "nome": "Nike Air Zoom SuperRep",
+      "categoria": "Training",
+      "prezzo": 129.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Zoom SuperRep sono scarpe da training con un'ammortizzazione reattiva e una suola stabile per gli esercizi in palestra.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e039906f-d10e-49d2-a729-d2d55f0ebc97/NIKE+SB+ZOOM+BLAZER+LOW+PRO+GT.png",
+      "nuovo_arrivi": true
+    },
+    {
+      "id": 28,
+      "nome": "Nike Air Zoom Freak 2",
+      "categoria": "Basket",
+      "prezzo": 119.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Zoom Freak 2 sono scarpe da basket con un'ammortizzazione reattiva e un design ispirato a Giannis Antetokounmpo.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0d3e413c-6861-4aff-9c57-5fd61bf9315b/ZOOM+FREAK+5.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 29,
+      "nome": "Nike Metcon 7",
+      "categoria": "Training",
+      "prezzo": 139.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Metcon 7 sono scarpe da training progettate per la stabilità e la resistenza, ideali per gli allenamenti più intensi.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/i1-591d047e-b5e1-44a1-a919-5bff7084cf06/AIR+ZOOM+SPIRIDON+CAGE+2.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 30,
+      "nome": "Nike React Element 55",
+      "categoria": "Sneakers",
+      "prezzo": 119.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike React Element 55 sono sneakers confortevoli e leggere, ideali per lo stile quotidiano.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6ac723bf-896c-4dbf-8e21-afa01ba057b0/NIKE+REACT+VISION.png",
+      "nuovo_arrivi": true
+    },
+    {
+      "id": 31,
+      "nome": "Nike Air Max 95",
+      "categoria": "Sneakers",
+      "prezzo": 159.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Max 95 sono scarpe iconiche con un design distintivo e un'ammortizzazione Air Max visibile.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d4c31751-aa66-45da-a4c3-e10308e1ce6d/NIKE+AIR+MAX+95.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 32,
+      "nome": "Nike Air Zoom Winflo 8",
+      "categoria": "Running",
+      "prezzo": 109.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Zoom Winflo 8 sono scarpe da corsa leggere e reattive, ideali per allenamenti e gare su strada.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/517279c6-3e84-4669-9fb8-e69219b39702/NIKE+AIR+WINFLO+11.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 33,
+      "nome": "Nike Air Force 1 React",
+      "categoria": "Sneakers",
+      "prezzo": 119.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Force 1 React uniscono il classico stile delle Air Force 1 con la reattività della tecnologia React.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/wlbprwbqo3agvyihaobd/AIR+FORCE+1+JEWEL.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 34,
+      "nome": "Nike Air Max Bella TR 4",
+      "categoria": "Training",
+      "prezzo": 89.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Max Bella TR 4 sono scarpe da training leggere e flessibili, ideali per gli allenamenti in palestra o all'aperto.",
+      "immagine": "https://imgnike-a.akamaihd.net/768x768/0228113XA8.jpg",
+      "nuovo_arrivi": true
+    },
+    {
+      "id": 35,
+      "nome": "Nike Air Max Plus",
+      "categoria": "Sneakers",
+      "prezzo": 169.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Max Plus sono sneakers iconiche con un design audace e un'ammortizzazione Max Air per il massimo comfort.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/db4c5180-289a-48c0-8c02-7d7e98b2047b/W+AIR+MAX+PLUS.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 36,
+      "nome": "Nike Air Zoom Tempo Next%",
+      "categoria": "Running",
+      "prezzo": 199.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Zoom Tempo Next% sono scarpe da corsa ad alte prestazioni con tecnologia ZoomX per la massima reattività.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bf983ae4-ad35-4596-856f-c02a5239a61a/NIKE+AIR+ZOOM+LJ+ELITE.png",
+      "nuovo_arrivi": true
+    },
+    {
+      "id": 37,
+      "nome": "Nike Air Force 1 Low",
+      "categoria": "Sneakers",
+      "prezzo": 109.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Force 1 Low sono un classico intramontabile, ideali per un look casual e confortevole.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/12897b2e-23b0-455a-8886-23854626bfd2/AIR+FORCE+1+LV8+3+%28GS%29.png",
+      "nuovo_arrivi": true
+    },
+    {
+      "id": 38,
+      "nome": "Nike Air Zoom Alphafly NEXT%",
+      "categoria": "Running",
+      "prezzo": 249.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Zoom Alphafly NEXT% sono le scarpe da maratona più avanzate mai realizzate, progettate per la massima prestazione.",
+      "immagine": "https://www.nike.com/za/t/alphafly-3-proto-road-racing-shoes-vNzQdQ",
+      "nuovo_arrivi": true
+    },
+    {
+      "id": 39,
+      "nome": "Nike Air Max 1",
+      "categoria": "Sneakers",
+      "prezzo": 129.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Max 1 sono le iconiche scarpe da corsa che hanno rivoluzionato il mondo delle sneaker, con un design unico e confortevole.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3e5d38a0-6d39-4698-938b-488e80068c8b/NIKE+AIR+MAX+1.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 40,
+      "nome": "Nike Air Max Plus 2",
+      "categoria": "Sneakers",
+      "prezzo": 179.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Max Plus 2 sono il rinnovamento delle iconiche Air Max Plus, con un'ammortizzazione Max Air e uno stile unico.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/wbatnncdieqtbsfar8mr/NIKE+AIR+MAX+PLUS+%28PS%29.png",
+      "nuovo_arrivi": true
+    },
+    {
+      "id": 41,
+      "nome": "Nike Air Max 720",
+      "categoria": "Sneakers",
+      "prezzo": 169.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Max 720 offrono un'ammortizzazione Air Max a tutta lunghezza, per un comfort e uno stile senza precedenti.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/gorfwjchoasrrzr1fggt/AIR+MAX+270.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 42,
+      "nome": "Nike Air Zoom Victory",
+      "categoria": "Running",
+      "prezzo": 179.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Zoom Victory sono scarpe da corsa progettate per la velocità e il comfort, ideali per le gare su strada.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6fef43e2-7b9c-4eb3-8d14-decc070e7247/AIR+ZOOM+VICTORY+TOUR+3.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 43,
+      "nome": "Nike Air Force 1 High",
+      "categoria": "Sneakers",
+      "prezzo": 129.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Force 1 High sono un'icona dello stile urbano, con un'ammortizzazione Air-Sole per il massimo comfort.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bfe3802e-6c01-479b-99da-f3943092cc4d/NIKE+COURT+VISION+MID+WNTR.png",
+      "nuovo_arrivi": true
+    },
+    {
+      "id": 44,
+      "nome": "Nike Free RN 5.0",
+      "categoria": "Running",
+      "prezzo": 99.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Free RN 5.0 sono scarpe da corsa leggere e flessibili, ideali per allenamenti e percorsi naturali.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/08870a30-2ce4-4cf7-9f48-75daaa4b6284/W+NIKE+FREE+RN+FK+NEXT+NATURE.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 45,
+      "nome": "Nike Air Max Sequent 3",
+      "categoria": "Sneakers",
+      "prezzo": 129.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Max Sequent 3 sono scarpe da corsa comode e versatili, con un'ammortizzazione reattiva per prestazioni ottimali.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4c2a029e-fa64-4ef2-8dcb-4b1604e471a4/AIR+MAX+DN+%2724+OLY+%28GS%29.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 46,
+      "nome": "Nike Air Zoom Freak 1",
+      "categoria": "Basket",
+      "prezzo": 119.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Zoom Freak 1 sono scarpe da basket con un'ammortizzazione reattiva e un supporto ottimale, per massima performance in campo.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/536e8ea1-3438-4b92-98ce-b9a6e13cb7cf/GIANNIS+IMMORTALITY+3.png",
+      "nuovo_arrivi": true
+    },
+    {
+      "id": 47,
+      "nome": "Nike Air Max 98",
+      "categoria": "Sneakers",
+      "prezzo": 179.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Max 98 sono scarpe da corsa con un design audace e un'ammortizzazione Air Max a tutta lunghezza.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e20484c2-2b66-4124-b692-ad132a4ef9a5/NIKE+AIR+MAX+95+ESSENTIAL.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 48,
+      "nome": "Nike Zoom Freak 2",
+      "categoria": "Basket",
+      "prezzo": 129.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Zoom Freak 2 sono scarpe da basket con un'ammortizzazione reattiva e un design ispirato alla potenza di Giannis Antetokounmpo.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9b469d1c-aacb-43e7-8902-f801f5b85dc5/NIKE+PRECISION+VII.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 49,
+      "nome": "Nike Air Max Axis",
+      "categoria": "Sneakers",
+      "prezzo": 99.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Air Max Axis sono scarpe da corsa ispirate al design degli anni '90, con un'ammortizzazione Air Max e uno stile retrò.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1d7353c0-b7e7-4984-8eef-0844f9f84f39/NIKE+ISPA+LINK+AXIS.png",
+      "nuovo_arrivi": false
+    },
+    {
+      "id": 50,
+      "nome": "Nike Zoom Pegasus Turbo 2",
+      "categoria": "Running",
+      "prezzo": 179.99,
+      "taglie_disponibili": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colori_disponibili": [
+        "Nero",
+        "Bianco",
+        "Blu",
+        "Rosso",
+        "Grigio"
+      ],
+      "descrizione": "Le Nike Zoom Pegasus Turbo 2 sono scarpe da corsa leggere e veloci, con una schiuma ZoomX per un'ammortizzazione reattiva.",
+      "immagine": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2224a688-afe4-4a5d-b6bf-9c3532904335/NIKE+ZOOMX+ZEGAMA+TRAIL+2.png",
+      "nuovo_arrivi": false
+    }
+  ],
+  "fotoScarpe": [
+    {
+      "id": 1,
+      "modello": "Nike Air Max 270",
+      "colori": [
+        {
+          "colore": "nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/cb1951e7-0600-4f7a-9b26-12be8cd2bd01/W+AIR+MAX+270.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/689d9244-f280-4e6e-a866-f068c34050d8/W+AIR+MAX+270.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/162a3c7d-d32b-46dd-b9d1-631494f6f2db/W+AIR+MAX+270.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/901018cd-e5e7-4081-8dfe-7e49ed1dae95/W+AIR+MAX+270.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4690b45f-7865-4bc7-ab24-3f61a888c58a/W+AIR+MAX+270.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b30fe313-8e49-4aa0-9678-deca68b34f95/W+AIR+MAX+270.png"
+          ]
+        },
+        {
+          "colore": "bianco",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2c7417ca-f5d8-4b0f-97ed-576b2f0273da/W+AIR+MAX+270.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4cc89daa-c394-4ad4-9214-262f9b1a065a/W+AIR+MAX+270.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b5a8c1df-dc86-4b8d-b3e9-c90e042ecb74/W+AIR+MAX+270.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5f254413-5afa-48e3-8274-5d8e4e65cade/W+AIR+MAX+270.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0f864ef9-9d52-4c47-a4b3-7754d92f00fc/W+AIR+MAX+270.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3fa05e11-6264-4041-8f1e-7a2320861cee/W+AIR+MAX+270.png"
+          ]
+        },
+        {
+          "colore": "bianco/nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/csnnsvmzomr1gu7qfcnd/W+AIR+MAX+270.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/l0ygc6xwmb5esfiln14k/W+AIR+MAX+270.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e8mdvzifyghkojpgpuyp/W+AIR+MAX+270.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ycbz7unfspsufwegt3e7/W+AIR+MAX+270.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/k8lilkbvc7ahppv9jlci/W+AIR+MAX+270.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1fbedb44-a22e-4928-ae09-c5f88316e3f5/W+AIR+MAX+270.png"
+          ]
+        }
+      ],
+      "video": "https://static.nike.com/a/videos/q_90/6ab92d71-0a50-4f5b-9d49-401de21638e0/video.mp4"
+    },
+    {
+      "id": 2,
+      "modello": "Nike React Infinity Run Flyknit",
+      "colori": [
+        {
+          "colore": "verde",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8eb5e8dd-3f76-4024-946d-434c42c9aa2a/W+NIKE+REACTX+INFINITY+RUN+4.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/76c620f5-5f47-421f-8b8f-a72807209523/W+NIKE+REACTX+INFINITY+RUN+4.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8e2284e0-0d11-4682-8bf1-dbd01ddf0b3d/W+NIKE+REACTX+INFINITY+RUN+4.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/21ab0628-3d58-4cb0-8e06-f83b8592cf06/W+NIKE+REACTX+INFINITY+RUN+4.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/67393e25-2fd9-4ada-8e6e-3001001368a6/W+NIKE+REACTX+INFINITY+RUN+4.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a2878ae2-9bfa-4530-831a-6f44727cbb7d/W+NIKE+REACTX+INFINITY+RUN+4.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/51869031-d0ca-474d-ba1a-4674c051b2ad/W+NIKE+REACTX+INFINITY+RUN+4.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "modello": "Nike Air Force 1",
+      "colori": [
+        {
+          "colore": "bianco",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/AIR+FORCE+1+%2707.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b39413f0-19c5-4721-8889-86e8156c4047/W+AIR+FORCE+1+%2707+FLYEASE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/cc064523-78aa-4f06-b131-ef3943225168/W+AIR+FORCE+1+%2707+FLYEASE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bd17ee22-a4bb-4667-9ab2-6d6e0d58e15a/W+AIR+FORCE+1+%2707+FLYEASE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/679926d2-7ea1-4dbc-83dc-06ba879f60cd/W+AIR+FORCE+1+%2707+FLYEASE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/23bb2ec9-637a-4022-8c20-c32b89c2e587/W+AIR+FORCE+1+%2707+FLYEASE.png"
+          ]
+        }
+      ],
+      "video": "https://static.nike.com/a/videos/q_90/9f20b988-c4a1-4df4-bc8f-040c749369d4/video.mp4"
+    },
+    {
+      "id": 4,
+      "modello": "Nike Air Zoom Pegasus 38",
+      "colori": [
+        {
+          "colore": "bianco",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/345a9e8e-29b7-4c1d-98e8-d03be07d7f28/AIR+ZOOM+PEGASUS+41.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7746455c-c73f-487d-82d9-321abcb7c1ac/AIR+ZOOM+PEGASUS+41.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2c77cb75-dadb-4c63-b410-12927eb04e3c/AIR+ZOOM+PEGASUS+41.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/763bd6d6-ba73-4270-a389-ac47783f80e5/AIR+ZOOM+PEGASUS+41.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3f6a342a-da8b-4cb9-a3dd-5a50e72c756f/AIR+ZOOM+PEGASUS+41.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6b1c2145-333b-45cb-ab5d-a4ea0f73488b/AIR+ZOOM+PEGASUS+41.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c985df4b-cfad-41e6-867e-188597bc94b7/AIR+ZOOM+PEGASUS+41.png"
+          ]
+        },
+        {
+          "colore": "nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/89026eec-b4c7-44be-a308-e5da1199d357/AIR+ZOOM+PEGASUS+41.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/92f66ddd-ceb6-4269-ba04-430b511f22d0/AIR+ZOOM+PEGASUS+41.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/987d0fe1-a16d-4cea-9013-ddc6b5f2d71c/AIR+ZOOM+PEGASUS+41.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/552ef6d9-9297-4737-9c3e-d4d6b63cd35a/AIR+ZOOM+PEGASUS+41.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b046488e-cf35-4b98-be12-b31bf62598ba/AIR+ZOOM+PEGASUS+41.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/17db31b4-c5a3-49f1-abd7-913d07cbcfc2/AIR+ZOOM+PEGASUS+41.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/78755ec9-f12f-40b4-afdb-1300633f37cc/AIR+ZOOM+PEGASUS+41.png"
+          ]
+        },
+        {
+          "colore": "blu",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b49fa6f3-a1ee-4abc-9b27-05d801b18b73/AIR+ZOOM+PEGASUS+41.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/56548e7c-51d3-4a1d-ab54-e39d4aaabcfc/AIR+ZOOM+PEGASUS+41.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0aeca13d-e360-4732-8de3-5e89480e6188/AIR+ZOOM+PEGASUS+41.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fea2947c-0d14-49bc-8d93-0443c8e7db06/AIR+ZOOM+PEGASUS+41.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6d7f8b53-43c9-45f4-b527-d8754c304651/AIR+ZOOM+PEGASUS+41.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6e4f7c10-8ccf-4351-8b12-492bf026361a/AIR+ZOOM+PEGASUS+41.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1e68af1a-8478-4259-8c5d-1aff28d9a1dc/AIR+ZOOM+PEGASUS+41.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "modello": "Nike Air Jordan 1 Mid",
+      "colori": [
+        {
+          "colore": "nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/24750e81-85ed-4b0e-8cd8-becf0cd97b2f/WMNS+AIR+JORDAN+1+MID.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/858bae62-65db-4f83-a870-9da6f3d92624/WMNS+AIR+JORDAN+1+MID.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/994eb8da-59c2-491f-b1ac-6560fe7a0f3d/WMNS+AIR+JORDAN+1+MID.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f200909c-4955-41f5-a5da-1ed625165448/WMNS+AIR+JORDAN+1+MID.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/00b53fd7-4300-44a1-9700-b6ee364897f3/WMNS+AIR+JORDAN+1+MID.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a4ba5fe9-626d-4d02-bfd5-2847f60252bb/WMNS+AIR+JORDAN+1+MID.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e0c623f4-3bdc-43c1-a59f-c5eacfce3fb0/WMNS+AIR+JORDAN+1+MID.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "modello": "Nike Revolution 5",
+      "colori": [
+        {
+          "colore": "bianco/nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9bbdc0b1-604f-4bab-b2d0-add082ed6e7d/REVOLUTION+6+FLYEASE+NN+%28GS%29.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/747c94fa-f459-43bf-9158-6fd6c061a61e/REVOLUTION+6+FLYEASE+NN+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/eb26c558-3568-417f-bf50-ffbb63818d26/REVOLUTION+6+FLYEASE+NN+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/92a4f0a3-5dcd-457d-b560-0fa4859be128/REVOLUTION+6+FLYEASE+NN+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ecd0d3c5-5ef7-4c71-b094-2c0fa90f0e16/REVOLUTION+6+FLYEASE+NN+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e75c670d-7286-42a3-9ebd-3b5399bfa0fc/REVOLUTION+6+FLYEASE+NN+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/01ab992c-1791-4473-80b1-5c98ff7cec28/REVOLUTION+6+FLYEASE+NN+%28GS%29.png"
+          ]
+        },
+        {
+          "colore": "nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/737b5f38-645b-459e-9e1a-5ded97b73345/REVOLUTION+6+FLYEASE+NN+%28GS%29.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/81faa45a-c92a-4b4d-bbd9-79d992187a91/REVOLUTION+6+FLYEASE+NN+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/356fdb03-eef8-4548-b1d3-453a9ddc8206/REVOLUTION+6+FLYEASE+NN+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/80edc4a5-82fb-4372-9b14-e4d9953ee3a4/REVOLUTION+6+FLYEASE+NN+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f87e6bd0-deec-46ea-ad0e-94f6a6ff9236/REVOLUTION+6+FLYEASE+NN+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/03808a5c-6200-4d31-bb75-a842699bc4d1/REVOLUTION+6+FLYEASE+NN+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8a4cadce-a942-4380-a714-06325b26cc62/REVOLUTION+6+FLYEASE+NN+%28GS%29.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "modello": "Nike Air Zoom Structure 24",
+      "colori": [
+        {
+          "colore": "bianco",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fbd237d6-821c-42ef-a115-686123417a56/W+NIKE+AIR+ZOOM+STRUCTURE+25.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/673b8b28-19ec-4a5f-ad10-71473e2afd77/W+NIKE+AIR+ZOOM+STRUCTURE+25.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d039aa2a-dd8d-40cf-9cd8-829d08204df4/W+NIKE+AIR+ZOOM+STRUCTURE+25.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b3a5f87c-def5-4337-99a7-c2328716792a/W+NIKE+AIR+ZOOM+STRUCTURE+25.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/88e3b9f6-9b95-4261-bba0-1fa1a2a33a69/W+NIKE+AIR+ZOOM+STRUCTURE+25.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2a832df5-e98a-4835-984d-b8fa3f22be63/W+NIKE+AIR+ZOOM+STRUCTURE+25.png"
+          ]
+        },
+        {
+          "colore": "nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a71cacd9-0539-4f7a-b341-e8152508237b/W+NIKE+AIR+ZOOM+STRUCTURE+25.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ab311193-afb2-47d9-88a0-d8d2883bf8d4/W+NIKE+AIR+ZOOM+STRUCTURE+25.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/61690a25-7256-41d4-ac4c-d2dbedabc153/W+NIKE+AIR+ZOOM+STRUCTURE+25.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/08a8d415-a20e-4d90-a666-50ebd4ff3b9c/W+NIKE+AIR+ZOOM+STRUCTURE+25.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/55fcb9ae-22a9-45d5-b547-3bef60830929/W+NIKE+AIR+ZOOM+STRUCTURE+25.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/aea954f7-41a5-4dfa-a5a2-1395fc8b7692/W+NIKE+AIR+ZOOM+STRUCTURE+25.png"
+          ]
+        },
+        {
+          "colore": "blu",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3c11eb61-0ba6-4ed9-93c7-7ede6cfc65e8/W+NIKE+AIR+ZOOM+STRUCTURE+25.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9e2fdd4d-cac8-4eb3-be3c-4c605a37f214/W+NIKE+AIR+ZOOM+STRUCTURE+25.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9c43638c-04d6-4127-a9a1-b57734b0735b/W+NIKE+AIR+ZOOM+STRUCTURE+25.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/dcf2a15a-fd6e-4242-84ea-26ea255c65e5/W+NIKE+AIR+ZOOM+STRUCTURE+25.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ffd187f7-9ba4-41d8-8453-a4649d10d6ea/W+NIKE+AIR+ZOOM+STRUCTURE+25.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/19738c3d-46bc-4678-90d7-e2ebe1aa9e0c/W+NIKE+AIR+ZOOM+STRUCTURE+25.png"
+          ]
+        },
+        {
+          "colore": "bianco/nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/18abdcda-aa6a-4ab4-a56b-4eb85e6c4d83/W+NIKE+AIR+ZOOM+STRUCTURE+25.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/223c5e44-4691-41d0-b48e-db4bf8cbb2c0/W+NIKE+AIR+ZOOM+STRUCTURE+25.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9b781200-0651-4a3a-927e-10a034efb0b2/W+NIKE+AIR+ZOOM+STRUCTURE+25.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/aac0d794-a86c-4c09-a05f-a394a74f8a88/W+NIKE+AIR+ZOOM+STRUCTURE+25.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4f5a3250-84f4-4189-8402-438cb52d56da/W+NIKE+AIR+ZOOM+STRUCTURE+25.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b9058a21-082a-4eba-85f6-16bda37b50d5/W+NIKE+AIR+ZOOM+STRUCTURE+25.png"
+          ]
+        }
+      ],
+      "video": "https://static.nike.com/a/videos/q_90/b6889c62-91a0-4c32-bc4b-124913c0ba75/video.mp4"
+    },
+    {
+      "id": 8,
+      "modello": "Nike Air Max 97",
+      "colori": [
+        {
+          "colore": "bianco",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5cbc21e7-886a-4265-80a1-2494e30daf51/WMNS+AIR+MAX+97.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d6034bac-672e-47bc-af28-e62eaba289d4/WMNS+AIR+MAX+97.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8d7bf343-7a90-49fe-b9ff-585d01ccd1fd/WMNS+AIR+MAX+97.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4c1df3d1-9a55-42a7-82a3-2e4daee75a32/WMNS+AIR+MAX+97.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f7c6de78-cbfb-4376-82a2-472c21f29814/WMNS+AIR+MAX+97.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/48152b59-7e0a-4fb4-a61c-bc5d56a0f8b8/WMNS+AIR+MAX+97.png"
+          ]
+        },
+        {
+          "colore": "nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/605afbd8-b40d-4914-b29e-1c1e2d0689b4/W+AIR+MAX+97+NN.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/87f3aab2-7e20-4fbc-b2eb-22c60c2df3a6/W+AIR+MAX+97+NN.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/17668de1-5f2e-4529-8615-bcae63f94ce7/W+AIR+MAX+97+NN.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8c0b6103-6dba-4bb5-9fc2-7ac05f77d966/W+AIR+MAX+97+NN.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2df676bc-5857-4913-98b8-ddd19eb36293/W+AIR+MAX+97+NN.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1d0b9f2c-5a04-469a-ba5e-81e28e2fe5d6/W+AIR+MAX+97+NN.png"
+          ]
+        },
+        {
+          "colore": "oro",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/db8a86ca-5eb4-4b7b-b1a8-15fc41ef0f3a/W+AIR+MAX+97+SE.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/acb6ed08-4b3c-4a36-9f70-efc46b444c4c/W+AIR+MAX+97+SE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9fcffbc4-6302-4a92-9dc0-762845b9acf7/W+AIR+MAX+97+SE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/273ed8f4-e2de-41dd-97a5-d22a989ebb7b/W+AIR+MAX+97+SE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/27249690-74ec-4e9b-9135-43b2ae499aed/W+AIR+MAX+97+SE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ba3533d1-2d88-41dc-a834-c1f83c8f628c/W+AIR+MAX+97+SE.png"
+          ]
+        }
+      ],
+      "video": "https://static.nike.com/a/videos/q_90/88573110-a612-470f-9788-608f2f1a5a68/video.mp4"
+    },
+    {
+      "id": 9,
+      "modello": "Nike Air Zoom Terra Kiger 7",
+      "colori": [
+        {
+          "colore": "verde",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3943f5d1-4ad9-4141-bfe3-c7e6dc64f365/NIKE+REACT+TERRA+KIGER+9.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ac749eb3-73c3-40e7-b7f9-25b331a01f89/NIKE+REACT+TERRA+KIGER+9.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d7216b62-6e6c-4d5c-8d82-22574bf126e6/NIKE+REACT+TERRA+KIGER+9.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2e7b6c22-de68-4d53-9103-650cd38e26d7/NIKE+REACT+TERRA+KIGER+9.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f3cee07e-fd02-4bc7-b0a9-adfa5884914d/NIKE+REACT+TERRA+KIGER+9.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b483af62-c003-458a-9254-d81cba184f29/NIKE+REACT+TERRA+KIGER+9.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/41fd4af7-6bf3-470f-9c80-a326259a09d4/NIKE+REACT+TERRA+KIGER+9.png"
+          ]
+        },
+        {
+          "colore": "bianco",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/329a631f-6ed8-4831-a1e1-a7c697d91c4a/NIKE+REACT+TERRA+KIGER+9.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/846f47a7-ff15-42da-836b-cf8eba1e5f9c/NIKE+REACT+TERRA+KIGER+9.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4183f56d-1929-4c4c-8db3-3223b82fea9b/NIKE+REACT+TERRA+KIGER+9.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/cd64dae3-52a2-4351-acd5-204ddcc343b4/NIKE+REACT+TERRA+KIGER+9.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/70f6bc3e-be9b-4864-8771-ce2674f91b2c/NIKE+REACT+TERRA+KIGER+9.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4e9ffd26-de40-4625-ba98-ccf7de02d4f0/NIKE+REACT+TERRA+KIGER+9.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7dd23b25-4a38-4d8c-abb2-c137b03fd3f2/NIKE+REACT+TERRA+KIGER+9.png"
+          ]
+        }
+      ],
+      "video": ""
+    },
+    {
+      "id": 10,
+      "modello": "Nike Air VaporMax Plus",
+      "colori": [
+        {
+          "colore": "nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/67088401-10b3-4f8b-8dd9-d7c0905bc697/NIKE+AIR+MAX+PLUS+%28GS%29.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/419b57e6-ff26-423f-997e-d467b55c053b/NIKE+AIR+MAX+PLUS+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/49d4bd04-6a4f-4086-a729-8ee047ac9f6f/NIKE+AIR+MAX+PLUS+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ff70b656-84e0-4d78-a1a3-68bd4b998078/NIKE+AIR+MAX+PLUS+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/14a61ac8-c4f1-4f3e-b001-fa4c56c99e5d/NIKE+AIR+MAX+PLUS+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6d5ca145-deb0-4624-b242-37f381a102e6/NIKE+AIR+MAX+PLUS+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b9cc313d-8cbd-4374-adbc-29d0956b24d6/NIKE+AIR+MAX+PLUS+%28GS%29.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "modello": "Nike Air Max 90",
+      "colori": [
+        {
+          "colore": "nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/367ba240-b2f6-4c1a-936f-e5abb2d639ec/NIKE+AIR+MAX+90+LTR+%28GS%29.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/05b574f0-18cd-4cec-8679-680d505b9c01/NIKE+AIR+MAX+90+LTR+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1e118955-9a18-4952-bd36-dc0632d288cf/NIKE+AIR+MAX+90+LTR+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8fe1623e-db42-48e9-82c8-5c6f03e12725/NIKE+AIR+MAX+90+LTR+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/33e9848f-8fc4-4de6-ba6c-eb52f0b82d1c/NIKE+AIR+MAX+90+LTR+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/75ebff64-b402-4e30-abd0-e27999344247/NIKE+AIR+MAX+90+LTR+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8a5a7f2f-effb-4d26-afd1-ac9439265a05/NIKE+AIR+MAX+90+LTR+%28GS%29.png"
+          ]
+        },
+        {
+          "colore": "rosso",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d7453286-5757-4cc8-b2e2-52262d9e042d/NIKE+AIR+MAX+90+LTR+%28GS%29.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5efe1c91-6ed5-4bb2-a6ea-37c1798e2e4c/NIKE+AIR+MAX+90+LTR+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/515178cf-b900-46eb-8227-4ea19cab6a3b/NIKE+AIR+MAX+90+LTR+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9811d071-be17-4edd-b983-26c2ac0b1bc1/NIKE+AIR+MAX+90+LTR+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0f5b96be-ed87-4f05-a073-27ee6a22bb75/NIKE+AIR+MAX+90+LTR+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/27539f5f-b561-4d5c-b307-36362dbc187a/NIKE+AIR+MAX+90+LTR+%28GS%29.png"
+          ]
+        },
+        {
+          "colore": "bianco",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fece11f2-df5a-41eb-a93f-fb33daa22fb6/NIKE+AIR+MAX+90+LTR+%28GS%29.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a840ffab-d199-4f97-a53a-467aab215c63/NIKE+AIR+MAX+90+LTR+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/95333c91-9c9b-4711-acbe-38478b814d6b/NIKE+AIR+MAX+90+LTR+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0debecdd-1399-4e56-a2de-f3fb337fde52/NIKE+AIR+MAX+90+LTR+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e68c46a8-229c-4c29-b957-724b72c8be85/NIKE+AIR+MAX+90+LTR+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/77c36493-c15a-4dbd-831f-db08dd964b05/NIKE+AIR+MAX+90+LTR+%28GS%29.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "modello": "Nike Air Zoom Vomero 16",
+      "colori": [
+        {
+          "colore": "verde",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ebab25cb-8229-41f7-a002-6af84fc754a9/W+NIKE+VOMERO+17.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fb5f1dde-072a-4ec2-887e-59625b57b6e8/W+NIKE+VOMERO+17.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d5cd8c2e-edd6-4beb-8640-00b6774f066b/W+NIKE+VOMERO+17.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2c31b764-a120-4f59-83ad-e1eb6e2606e4/W+NIKE+VOMERO+17.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/77480e7f-27d2-4523-8f1f-2d9eec0c4bbd/W+NIKE+VOMERO+17.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9e683e7b-4176-4082-8115-59c1a94028c9/W+NIKE+VOMERO+17.png"
+          ]
+        },
+        {
+          "colore": "bianco/nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2f77b9d8-c7dc-49eb-af5c-d693189f943b/W+NIKE+VOMERO+17.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/deb70527-13d4-4b8e-9421-df19fd82f08b/W+NIKE+VOMERO+17.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7100748c-0bfa-4406-a65a-e4fc151bd0ee/W+NIKE+VOMERO+17.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/37d84f19-a567-47e3-8f9d-5fe2f6b50f78/W+NIKE+VOMERO+17.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/013a2d45-72a5-40b9-b704-0dc40821ac3d/W+NIKE+VOMERO+17.png"
+          ]
+        }
+      ],
+      "video": "https://static.nike.com/a/videos/q_90/ca42e5f7-cf6b-45e4-913c-da9775dea74e/video.mp4"
+    },
+    {
+      "id": 13,
+      "modello": "Nike Air Jordan 4 Retro",
+      "colori": [
+        {
+          "colore": "nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4847c04e-ecf7-4ce5-a27e-0d271467934f/AIR+FLIGHT+89+%28GS%29.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/034a755f-6a2c-4010-b282-289b6325d838/AIR+FLIGHT+89+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/43be3a5a-1dbc-4388-a0f7-899798d49cc2/AIR+FLIGHT+89+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f0958893-4cae-497c-9cfd-28b4bb567913/AIR+FLIGHT+89+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/86059fcd-2945-4cc8-9ae4-fc34b510d6a2/AIR+FLIGHT+89+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6fa7d17b-b0bb-4a71-a7c1-124cbf1dafa7/AIR+FLIGHT+89+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/21e2b04b-24d9-4b91-9a96-47ead3501d3d/AIR+FLIGHT+89+%28GS%29.png"
+          ]
+        },
+        {
+          "colore": "rosso",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d7ff019d-c28a-4ba3-a02d-23faea888e74/AIR+FLIGHT+89+%28GS%29.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/db8971d5-b170-417f-9f30-9bde07b0e960/AIR+FLIGHT+89+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c9683dc4-a03f-44e6-bde2-92d2d7e7c28b/AIR+FLIGHT+89+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f7122f2e-303f-453d-a16a-1ac3c212d10c/AIR+FLIGHT+89+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d0dbfbed-e72d-4172-9d86-213f0cfc5622/AIR+FLIGHT+89+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9b51c966-b677-4247-9510-b1d018cf4088/AIR+FLIGHT+89+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a048295f-9222-4c93-a7ce-3e7d6f440228/AIR+FLIGHT+89+%28GS%29.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "modello": "Nike Blazer Mid '77 Vintage",
+      "colori": [
+        {
+          "colore": "bianco",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fb7eda3c-5ac8-4d05-a18f-1c2c5e82e36e/BLAZER+MID+%2777+VNTG.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/cacf1d36-8769-41b2-8616-a351efae9ce5/BLAZER+MID+%2777+VNTG.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8bc7d689-de2c-4b49-986c-b42153895bc0/BLAZER+MID+%2777+VNTG.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ef4dbed6-c621-4879-8db3-f87296bfb570/BLAZER+MID+%2777+VNTG.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2d9fe33e-9a31-4e7b-9d7c-c4ecf7abd2bb/BLAZER+MID+%2777+VNTG.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ee4cdc5a-36bb-40f5-bf8d-a441674bdfd6/BLAZER+MID+%2777+VNTG.png"
+          ]
+        },
+        {
+          "colore": "rosso",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/057482ba-4077-40a4-aa18-ef8f1b8f4fcf/BLAZER+MID+%2777+VNTG.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/431c0ec9-e2b5-49f8-97de-e7e03293bcab/BLAZER+MID+%2777+VNTG.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8b3ff9b6-b3d8-494a-80ef-ec0038e0d54b/BLAZER+MID+%2777+VNTG.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/19380fda-5200-4122-a379-0d93c0764c69/BLAZER+MID+%2777+VNTG.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/232c0ae8-99c8-497f-9a1e-af9f0fc8ef3c/BLAZER+MID+%2777+VNTG.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/eb66846b-380e-4c51-be34-9df2e734fd1d/BLAZER+MID+%2777+VNTG.png"
+          ]
+        },
+        {
+          "colore": "blu",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/889ef520-349a-49da-80d4-8d75f9651feb/BLAZER+MID+%2777+VNTG.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a5942424-c9b7-4192-9ef1-f7c9815fbfcc/BLAZER+MID+%2777+VNTG.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e4fca072-a847-46f3-829b-e827eab1941d/BLAZER+MID+%2777+VNTG.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a4f37b92-2f8c-4b14-8119-609eeb57e719/BLAZER+MID+%2777+VNTG.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a19e3c81-168f-4034-9872-87bc1eb6fe73/BLAZER+MID+%2777+VNTG.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/40a300fa-8309-4ad3-ae39-df125ff2469f/BLAZER+MID+%2777+VNTG.png"
+          ]
+        },
+        {
+          "colore": "verde",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2b47d63e-e088-4b4c-b5fd-40c9d0fb15ba/BLAZER+MID+%2777+VNTG.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9b9c64e4-30a6-4857-b898-f8103501992b/BLAZER+MID+%2777+VNTG.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b5fbbe20-6e73-42ad-8d91-4ff125dfe5fe/BLAZER+MID+%2777+VNTG.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bf34e2fe-06e3-4308-a69c-a34650cf1ac8/BLAZER+MID+%2777+VNTG.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bc3c9a02-dd0f-478d-b063-cfa11c65b856/BLAZER+MID+%2777+VNTG.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f09e9f71-c868-4fd0-9beb-6eaf1457b1db/BLAZER+MID+%2777+VNTG.png"
+          ]
+        }
+      ],
+      "video": "https://static.nike.com/a/videos/q_90/9e182485-116e-4b19-b7cc-4e6042c78a89/video.mp4"
+    },
+    {
+      "id": 15,
+      "modello": "Nike Air Max Excee",
+      "colori": [
+        {
+          "colore": "bianco/nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/dd301254-9e1f-4045-8c37-eb7c30ff92c2/NIKE+AIR+MAX+EXCEE.png",
+          "foto": [
+            "https://nikeclprod.vtexassets.com/arquivos/ids/968522-800-800?v=638476005554570000&width=800&height=800&aspect=true",
+            "https://nikeclprod.vtexassets.com/arquivos/ids/969807-800-800?v=638476028914470000&width=800&height=800&aspect=true",
+            "https://nikeclprod.vtexassets.com/arquivos/ids/971079-800-800?v=638476045498030000&width=800&height=800&aspect=true",
+            "https://nikeclprod.vtexassets.com/arquivos/ids/972279-800-800?v=638476090172330000&width=800&height=800&aspect=true",
+            "https://nikeclprod.vtexassets.com/arquivos/ids/974929-800-800?v=638476129080530000&width=800&height=800&aspect=true",
+            "https://nikeclprod.vtexassets.com/arquivos/ids/976066-800-800?v=638476147298330000&width=800&height=800&aspect=true"
+          ]
+        }
+      ],
+      "video": ""
+    },
+    {
+      "id": 16,
+      "modello": "Nike Air Zoom SuperRep 2",
+      "colori": [
+        {
+          "colore": "blu",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/41e9e295-f11a-4bf4-ab18-9d08ca7310d1/M+NIKE+AIR+ZOOM+TR+1.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e733a9ef-22a2-4f6e-8c61-4d5e2ee8054e/M+NIKE+AIR+ZOOM+TR+1.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d9c60579-f592-4cc9-9be3-e6cd3d5c0696/M+NIKE+AIR+ZOOM+TR+1.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9dc7a28c-3278-451b-8ccd-d95378777883/M+NIKE+AIR+ZOOM+TR+1.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/23ad00cd-06ce-4ab0-a412-90d4b08ce81b/M+NIKE+AIR+ZOOM+TR+1.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/173d33d2-98c4-47f6-8011-c94d849aa674/M+NIKE+AIR+ZOOM+TR+1.png"
+          ]
+        },
+        {
+          "colore": "bianco/nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f66495f9-83c6-46db-9a17-3b24c89d4bbc/M+NIKE+AIR+ZOOM+TR+1.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/acf92734-369c-4595-abd3-bf8fea8b7cc6/M+NIKE+AIR+ZOOM+TR+1.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3ec452c6-0712-4c9c-bd8f-3e096aa899aa/M+NIKE+AIR+ZOOM+TR+1.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/cb05ffbc-0426-4e31-9ad8-50b0eeb8322d/M+NIKE+AIR+ZOOM+TR+1.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/aaf18b75-9145-4ec5-ba39-c1c9e6b0b947/M+NIKE+AIR+ZOOM+TR+1.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c4761d06-4d2b-4308-be08-784d2e8b7934/M+NIKE+AIR+ZOOM+TR+1.png"
+          ]
+        }
+      ],
+      "video": "https://static.nike.com/a/videos/q_90/7b17b1c8-8211-4088-9af1-bc2ecedb569b/video.mp4"
+    },
+    {
+      "id": 17,
+      "modello": "Nike Air Zoom Freak 3",
+      "colori": [
+        {
+          "colore": "rosso",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2599bc05-e25a-4f30-9ac2-faa15c3c482e/NIKE+PRECISION+VII.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f0b6b349-5d61-4140-aebb-54fab6eccd00/NIKE+PRECISION+VII.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/cf26d527-5892-4504-a0a2-7e69b7086a8d/NIKE+PRECISION+VII.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2dbb3424-ec2b-4457-bd16-8497300dae7a/NIKE+PRECISION+VII.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/93a928b7-4986-4f62-9464-112a8cc07688/NIKE+PRECISION+VII.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/23010e25-983e-4710-9817-32eae82f93d3/NIKE+PRECISION+VII.png"
+          ]
+        }
+      ],
+      "video": "https://static.nike.com/a/videos/q_90/0a3f3658-6f7d-41c3-99f0-a86d240637fb/video.mp4"
+    },
+    {
+      "id": 18,
+      "modello": "Nike Renew Run",
+      "colori": [
+        {
+          "colore": "bianco",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e076c8dc-ce73-4639-b4a2-3312ee219265/NIKE+AIR+WINFLO+11.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a26b69ff-62fa-4be1-b891-316fdc57c13a/NIKE+VOMERO+17.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/aaea3752-c0f6-4fbc-9481-82c663184de6/NIKE+VOMERO+17.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c3b35c0b-4261-42ad-a0de-02d1aa6ae3f7/NIKE+VOMERO+17.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6006f132-90f8-4df5-bb21-902094e2b843/NIKE+VOMERO+17.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/04740838-0231-4891-8ba1-ec226e428aaa/NIKE+VOMERO+17.png"
+          ]
+        },
+        {
+          "colore": "grigio",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/644a59b8-a6d3-4966-a150-fe444d735d66/NIKE+VOMERO+17.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e72f8c0c-14b5-4085-b7fe-338f869d9e48/NIKE+VOMERO+17.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/718bfc45-7b0e-4fc7-8042-ad11656bfd70/NIKE+VOMERO+17.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2fa7b8a3-974a-495c-a4f4-c26f6e63e4c9/NIKE+VOMERO+17.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a4f5072c-9435-46ab-8910-d18c52e377a1/NIKE+VOMERO+17.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/56f334b5-99a1-458d-afdb-00d76b79d854/NIKE+VOMERO+17.png"
+          ]
+        },
+        {
+          "colore": "blu",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c6655793-9db2-41f3-9402-c0f9cea9f0da/NIKE+VOMERO+17.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b188260a-97b1-45cc-a48d-6e52550ffe63/NIKE+VOMERO+17.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/56350fd5-2251-4596-861d-d7a1ee099542/NIKE+VOMERO+17.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d5d46f8d-db8a-42cb-ab81-ea1de9920897/NIKE+VOMERO+17.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/57eb692e-8188-43c3-bb31-9637f1b52acd/NIKE+VOMERO+17.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/864b6c44-95b8-46e5-a0ec-93e4e46c83b1/NIKE+VOMERO+17.png"
+          ]
+        },
+        {
+          "colore": "nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/356ba212-e8c0-4bbc-a5d2-2f4b6fadff31/NIKE+VOMERO+17.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9be09b25-32f6-41bd-aca1-b527b9af3497/NIKE+VOMERO+17.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/03f523db-7d78-4ce7-9a69-b4931e3a639b/NIKE+VOMERO+17.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5b08c993-4209-4b42-aa68-fcd0bcaffa73/NIKE+VOMERO+17.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/21b2114f-ea34-4fa6-8628-2ccd8b3da49e/NIKE+VOMERO+17.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/150dfe3f-1024-4c51-ab2a-87d2110fa294/NIKE+VOMERO+17.png"
+          ]
+        }
+      ],
+      "video": "https://static.nike.com/a/videos/q_90/61cbde47-7c4b-486e-95bd-a20bb04cbeb8/video.mp4"
+    },
+    {
+      "id": 19,
+      "modello": "Nike Air Max Sequent 4",
+      "colori": [
+        {
+          "colore": "blu",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e4b656b7-b02e-456b-b2dd-117d62c6c9cb/AIR+MAX+DN.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/42ee2aff-e7fd-46e7-b88a-337a31716f85/AIR+MAX+DN.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9290270c-55c5-4479-8d4a-b4d788732cf3/AIR+MAX+DN.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/97b4fb6f-50d8-4715-89b4-2c68f4cca918/AIR+MAX+DN.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/608af5a8-fb07-4319-b631-02ac26c6ca09/AIR+MAX+DN.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a45edfcf-1438-4cd2-b04e-c0b29260c177/AIR+MAX+DN.png"
+          ]
+        },
+        {
+          "colore": "grigio",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/63e0cf2c-a805-401e-bd8f-cbe1e28115ab/AIR+MAX+DN.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/07a79888-a9a6-400c-9afc-7e99859db989/AIR+MAX+DN.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/582637ad-ca05-4985-91bc-fde979960545/AIR+MAX+DN.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/06a1a24e-1994-475a-bff3-0c0cfde34687/AIR+MAX+DN.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b32ae403-6fa5-4919-a994-9038f2caf7ca/AIR+MAX+DN.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5037579d-71db-4315-9ff5-3bc60a26fbdc/AIR+MAX+DN.png"
+          ]
+        },
+        {
+          "colore": "bianco",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7aed42c7-8427-48d8-a87f-3359daf7de3b/AIR+MAX+DN.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/497970c3-64e9-4d1e-8d23-29dc10fe390a/AIR+MAX+DN.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/110d84e5-fbd1-419d-8ba2-9e78ea47db19/AIR+MAX+DN.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ed841de5-d927-4e11-a064-094e6c693e94/AIR+MAX+DN.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/460524cd-a437-43fe-af52-327a5287d015/AIR+MAX+DN.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/eedce279-2ba5-46bf-abeb-04c0294d6db5/AIR+MAX+DN.png"
+          ]
+        }
+      ],
+      "video": "https://static.nike.com/a/videos/q_90/0e12b879-b3ec-474f-89dc-aa34f4f09bf9/video.mp4"
+    },
+    {
+      "id": 20,
+      "modello": "Nike Air Max 2090",
+      "colori": [
+        {
+          "colore": "rosso",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b512d40c-e6fc-4070-bc85-ba3a13f2992c/NIKE+AIR+MAX+PULSE+ROAM.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/55e62a7a-9b51-4838-8593-60a6b46aa392/NIKE+AIR+MAX+PULSE+ROAM.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/59ee97a4-d5a4-44eb-896c-f6335942a801/NIKE+AIR+MAX+PULSE+ROAM.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d5b7b296-a160-4534-b3e1-dd42822bfe9f/NIKE+AIR+MAX+PULSE+ROAM.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/534ae6fe-dbe7-4fa5-9823-e93bf0599277/NIKE+AIR+MAX+PULSE+ROAM.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7dbc504e-7f02-461c-9d07-556de51072ac/NIKE+AIR+MAX+PULSE+ROAM.png"
+          ]
+        }
+      ],
+      "video": "https://static.nike.com/a/videos/q_90/c0b003ac-256f-4740-8f37-620993545b56/video.mp4"
+    },
+    {
+      "id": 21,
+      "modello": "Nike Joyride Run Flyknit",
+      "colori": [
+        {
+          "colore": "viola",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7c2d678c-7f10-40df-ba7d-0872137761c6/WMNS+ZOOM+FLY+5.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4d847a7f-f765-4504-8610-c8b245b2f6bd/WMNS+ZOOM+FLY+5.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/37d52d6c-b048-467e-aac9-044846aaf1b7/WMNS+ZOOM+FLY+5.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2e05f2a6-3f64-4abb-8bdb-bd81403059e7/WMNS+ZOOM+FLY+5.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/874a9a36-3bd3-437e-866a-16bba0a1eaf8/WMNS+ZOOM+FLY+5.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1cf1dd32-6ea3-4770-95c5-6b4d244e7359/WMNS+ZOOM+FLY+5.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "modello": "Nike Air Max Tailwind IV",
+      "colori": [
+        {
+          "colore": "rosso",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c9a377f2-8561-4ada-8abd-19fc7710f4bd/AIR+MAX+90+%28GS%29.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1a4142cd-7723-4404-85b9-89b1d445ccde/AIR+MAX+90+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8ab6e9e0-2ace-4e70-8760-ac9ad05395d4/AIR+MAX+90+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bf16bf1b-8007-490a-9de5-3ff94a946873/AIR+MAX+90+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/99c3e35e-29e0-40bd-8b31-f2565558d5b1/AIR+MAX+90+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e1828126-ac1b-4dfc-b15f-7ae39a72ec69/AIR+MAX+90+%28GS%29.png"
+          ]
+        },
+        {
+          "colore": "bianco",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fd938b5e-0d24-4bd2-b7e3-fc717a3ee53c/AIR+MAX+90+%28GS%29.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ade0f76c-e590-47aa-b69f-32cde66f8312/AIR+MAX+90+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/00f16e50-b522-4df7-aee8-bba24ca28c9a/AIR+MAX+90+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5ff58509-efbb-4012-9f58-9f817344bfa0/AIR+MAX+90+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/94279be7-9e85-4fd8-80b9-da54bda6c7e0/AIR+MAX+90+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7fa63539-47ed-4d7d-ba06-0fac8ba96ba9/AIR+MAX+90+%28GS%29.png"
+          ]
+        },
+        {
+          "colore": "blu",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7cce2301-9d6d-482c-a8ba-50f33f1c9415/AIR+MAX+90+%28GS%29.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/236b6f69-13c7-4f8a-bb8a-dd2015fe02e8/AIR+MAX+90+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/495676d6-9bca-4952-b99a-7a8776ec8302/AIR+MAX+90+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/52f5de36-640a-4611-91ca-bff7253fdd08/AIR+MAX+90+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/40379382-7d42-4a15-bac4-98e4679e03b6/AIR+MAX+90+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e62bbf95-5b37-45df-a90a-a5b08e37fe1c/AIR+MAX+90+%28GS%29.png"
+          ]
+        },
+        {
+          "colore": "rosa",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c5e8bfe2-75ad-4eab-8652-eb3c0676769b/AIR+MAX+90+%28GS%29.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/75af3801-4276-4391-b19c-7b05855dd0dc/AIR+MAX+90+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c68c160e-9903-4316-9402-d9cbd743092f/AIR+MAX+90+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/70bcee84-73c9-4ef7-b942-d1c0da6e1493/AIR+MAX+90+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/320a5f8f-be74-42e3-9c87-965a7c3ea582/AIR+MAX+90+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f9d6a1c7-7c77-493e-9ef3-cd9c5887e3b5/AIR+MAX+90+%28GS%29.png"
+          ]
+        },
+        {
+          "colore": "giallo",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1b431a17-2b4b-439b-8fd8-fb7f6e12c9db/AIR+MAX+90+%28GS%29.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5c36825c-f1f7-478a-987b-cf829753d26b/AIR+MAX+90+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c16e9162-7495-4f1a-a125-df8198ba58d6/AIR+MAX+90+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/33e93a52-28a2-4ece-9e8e-41bd2a1892a9/AIR+MAX+90+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3044cda6-5f6e-460a-b04b-57b7d3c7d68a/AIR+MAX+90+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/68a6fc57-bf8b-4df6-9be8-7821c3b1fd68/AIR+MAX+90+%28GS%29.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "modello": "Nike Air Zoom Structure",
+      "colori": [
+        {
+          "colore": "bianco",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/66b649de-0c8e-45c6-8c8e-9ca713cd153e/W+NIKE+REACTX+PEGASUS+TRAIL+5.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c1717969-4434-40c0-8d67-1861622df48a/W+NIKE+REACTX+PEGASUS+TRAIL+5.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/66a91c53-30e5-4263-aeca-3ce5d6bbfd0f/W+NIKE+REACTX+PEGASUS+TRAIL+5.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/dd5625d7-44c9-4853-8954-c8fb396623ee/W+NIKE+REACTX+PEGASUS+TRAIL+5.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/93b23c96-e79d-43b9-a195-13f0dd2e8cd3/W+NIKE+REACTX+PEGASUS+TRAIL+5.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ecb2d0b2-7290-49ea-9684-f31441bd1d45/W+NIKE+REACTX+PEGASUS+TRAIL+5.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "modello": "Nike Air Max 270 React",
+      "colori": [
+        {
+          "colore": "rosso",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e0288822-a342-4ef5-adae-fe5c0ee6a1de/NIKE+AIR+MAX+PULSE+GS.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/05e5e60d-f367-4a28-90af-d66d1e2db5ee/AIR+MAX+PULSE+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a1aea856-6be8-46f7-a509-0c73285dca57/AIR+MAX+PULSE+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ee952e7a-17a9-450b-aa95-40962dc0ffce/AIR+MAX+PULSE+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/145ab9e4-b213-4ffc-81d5-e83ba3a99706/AIR+MAX+PULSE+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d9d119a6-8771-448d-8593-821465b3dc8c/AIR+MAX+PULSE+%28GS%29.png"
+          ]
+        },
+        {
+          "colore": "nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/069fe4cf-098e-4de7-9243-d9e1e3c9c9fe/AIR+MAX+PULSE+%28GS%29.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/42ac9ca1-ea0f-4ede-a8ee-24a5c3d82089/AIR+MAX+PULSE+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a0326168-e657-4b43-852a-5175996413a2/AIR+MAX+PULSE+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/37c69017-4e6a-42aa-937a-96c35dfa394d/AIR+MAX+PULSE+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/aaea9033-2c8d-4416-a590-30ec90f86377/AIR+MAX+PULSE+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/da3919f7-5d50-4874-863a-c158ba85cc82/AIR+MAX+PULSE+%28GS%29.png"
+          ]
+        },
+        {
+          "colore": "bianco",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/82f3f0e3-9dc4-4b32-b4c8-1425eb92b1b5/AIR+MAX+PULSE+%28GS%29.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2296c35c-2cb4-4b6c-bba9-02924268e968/AIR+MAX+PULSE+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/cf91ef2c-57ea-4a1f-84e3-ffc1b9fd4c4f/AIR+MAX+PULSE+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/76b8ba54-b0c6-4269-b6fd-528ac00ad271/AIR+MAX+PULSE+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/706c24e5-61c0-495b-8ec2-13a18c3841e0/AIR+MAX+PULSE+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/537cffc2-ac8b-4273-be27-0047d9ca5244/AIR+MAX+PULSE+%28GS%29.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "modello": "Nike Air Zoom Wildhorse 7",
+      "colori": [
+        {
+          "colore": "blu",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/389fca53-e1d7-4df0-8b57-170268e19408/NIKE+REACT+WILDHORSE+8.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/43e5341b-8bd2-4bf5-8424-7afbd8e42d5d/NIKE+REACT+WILDHORSE+8.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c3bd1c1c-dfdc-48c1-acbd-da1b69f3d7ee/NIKE+REACT+WILDHORSE+8.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ea72e759-d7e9-474c-8603-0e584c0b39a0/NIKE+REACT+WILDHORSE+8.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2dda4178-7d47-420c-8de6-af3d7bcb193e/NIKE+REACT+WILDHORSE+8.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/59073a66-edba-4651-8a66-734ff439a154/NIKE+REACT+WILDHORSE+8.png"
+          ]
+        },
+        {
+          "colore": "rosso",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e85fb6d2-bda7-4512-94eb-09c1d4e48b4f/NIKE+REACT+WILDHORSE+8.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/487c060f-283c-41ea-abf2-86ac69aeda48/NIKE+REACT+WILDHORSE+8.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ca520c39-3bb4-4c27-84ef-fd30e22108b5/NIKE+REACT+WILDHORSE+8.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/057cfc3b-6789-4252-9a7b-923b39930b21/NIKE+REACT+WILDHORSE+8.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0c68e0fc-2300-4752-b77b-dd0a44311a43/NIKE+REACT+WILDHORSE+8.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0ebc9f0b-0cc6-4f45-8fbc-ba3376f90b64/NIKE+REACT+WILDHORSE+8.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "modello": "Nike React Infinity Run Flyknit 2",
+      "colori": [
+        {
+          "colore": "nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9df54a71-eb47-4a79-a718-3d8eb34c3a81/NIKE+FREE+RN+FK+NEXT+NATURE.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4ad4b378-49a9-4860-9802-7fad6785bce2/NIKE+FREE+RN+FK+NEXT+NATURE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/de44c116-d0be-47d1-b952-2cef71029065/NIKE+FREE+RN+FK+NEXT+NATURE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fb948193-5164-4536-b33e-35c5b6c9073d/NIKE+FREE+RN+FK+NEXT+NATURE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e5ef22b0-e484-49f8-98c8-199af8f3141b/NIKE+FREE+RN+FK+NEXT+NATURE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/861b1583-6ed0-4b3b-a696-1ff2ebc7ccf9/NIKE+FREE+RN+FK+NEXT+NATURE.png"
+          ]
+        },
+        {
+          "colore": "bianco",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/02d7c702-0b9b-46df-8e0d-3f2178ce4814/NIKE+FREE+RN+FK+NEXT+NATURE.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c45dd474-b942-4d81-ba95-212e5ff066e3/NIKE+FREE+RN+FK+NEXT+NATURE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/86a995b3-4c55-42dc-ba75-8205bf37130b/NIKE+FREE+RN+FK+NEXT+NATURE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7341e119-35bb-41b4-b780-01e3ea7b40dd/NIKE+FREE+RN+FK+NEXT+NATURE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/84e9bdb5-feb5-4717-8db3-99afa7e5a6a7/NIKE+FREE+RN+FK+NEXT+NATURE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f6fc731f-d9e2-4214-a887-a4692516e791/NIKE+FREE+RN+FK+NEXT+NATURE.png"
+          ]
+        },
+        {
+          "colore": "rosso",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1c4e2df9-655e-4c31-af48-874efbecda4c/NIKE+FREE+RN+FK+NEXT+NATURE.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/920e4831-9a7e-40c7-9c26-66758cc79cb3/NIKE+FREE+RN+FK+NEXT+NATURE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/925ee647-bc59-498b-9d73-826ee63095f9/NIKE+FREE+RN+FK+NEXT+NATURE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/28bf60ee-4aae-4a5b-8bde-e72b93d43902/NIKE+FREE+RN+FK+NEXT+NATURE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9bd519e0-c91b-4a2d-a2e6-d4b2433cde5c/NIKE+FREE+RN+FK+NEXT+NATURE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d2dc765a-80cb-4914-a576-cc79fed3ddae/NIKE+FREE+RN+FK+NEXT+NATURE.png"
+          ]
+        }
+      ],
+      "video": "https://static.nike.com/a/videos/q_90/6fea3527-8cc4-4d2e-9220-779d1491d9e2/video.mp4"
+    },
+    {
+      "id": 27,
+      "modello": "Nike Air Zoom SuperRep",
+      "colori": [
+        {
+          "colore": "nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e039906f-d10e-49d2-a729-d2d55f0ebc97/NIKE+SB+ZOOM+BLAZER+LOW+PRO+GT.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9c585662-b732-4457-8cc5-89e8a84b3e05/NIKE+SB+ZOOM+BLAZER+LOW+PRO+GT.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3235c926-42d8-4847-aad0-200823e91a70/NIKE+SB+ZOOM+BLAZER+LOW+PRO+GT.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f738286c-96d8-4653-908b-92ae80bb1809/NIKE+SB+ZOOM+BLAZER+LOW+PRO+GT.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1c084a28-fbee-4330-9276-06aa5861d48f/NIKE+SB+ZOOM+BLAZER+LOW+PRO+GT.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4883f45b-ff9f-4f9d-9299-694e509fe21f/NIKE+SB+ZOOM+BLAZER+LOW+PRO+GT.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "modello": "Nike Air Zoom Freak 2",
+      "colori": [
+        {
+          "colore": "nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0d3e413c-6861-4aff-9c57-5fd61bf9315b/ZOOM+FREAK+5.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/683cf9af-0e99-479a-b620-f490c2c854eb/ZOOM+FREAK+5.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/90b21872-4b84-4ab4-9d7c-5ea0974527cf/ZOOM+FREAK+5.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4ea97e5e-3cf7-4c42-9537-6f927c98aa48/ZOOM+FREAK+5.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2e8c192b-7f5a-40de-8dea-d1753c3621db/ZOOM+FREAK+5.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5fcb9a24-c0f7-4e54-8886-ed8bde9edca3/ZOOM+FREAK+5.png"
+          ]
+        },
+        {
+          "colore": "rosso",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e646db3a-dc9d-4319-b718-e3ce70410361/ZOOM+FREAK+5.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/aa9b273e-6914-4127-92bc-be54cd0bdaa2/ZOOM+FREAK+5.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d6ab7dc1-c945-4c8a-86e4-8bd1aa4a4769/ZOOM+FREAK+5.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e7a57430-f9f8-4b00-bfd7-8a9744128800/ZOOM+FREAK+5.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a717772a-0e82-4b23-b6ba-0458ba404b40/ZOOM+FREAK+5.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6f727c9a-50fe-4d95-92eb-5ed0b56ee839/ZOOM+FREAK+5.png"
+          ]
+        },
+        {
+          "colore": "bianco",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/427c2421-3cec-4459-a644-3a64a6656894/ZOOM+FREAK+5.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/346b0cf5-12a1-438a-b2b3-5315ad6aaf84/ZOOM+FREAK+5.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/93ecf4b0-653e-4982-abcf-64cae7b0ea10/ZOOM+FREAK+5.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/90e20fd0-82aa-4357-8b08-09356ded95ba/ZOOM+FREAK+5.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0893d56c-5c07-4add-ae24-9782d0115440/ZOOM+FREAK+5.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7d682b95-7bd5-48d4-aeed-ce0c097ddb07/ZOOM+FREAK+5.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "modello": "Nike Metcon 7",
+      "colori": [
+        {
+          "colore": "grigio",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/i1-591d047e-b5e1-44a1-a919-5bff7084cf06/AIR+ZOOM+SPIRIDON+CAGE+2.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/i1-f7e0b53e-40d6-4bae-a115-355d19091802/AIR+ZOOM+SPIRIDON+CAGE+2.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/i1-c1404426-1b1b-4190-be0f-c3589de28661/AIR+ZOOM+SPIRIDON+CAGE+2.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/i1-41f617a5-57a9-47a6-b081-129fe6b036f9/AIR+ZOOM+SPIRIDON+CAGE+2.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/i1-e18a62b4-18b8-4dbb-a223-552539f00840/AIR+ZOOM+SPIRIDON+CAGE+2.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/i1-f0ee649d-81d2-4c45-afc0-b5700ed3d1e0/AIR+ZOOM+SPIRIDON+CAGE+2.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "modello": "Nike React Element 55",
+      "colori": [
+        {
+          "colore": "grigio",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6ac723bf-896c-4dbf-8e21-afa01ba057b0/NIKE+REACT+VISION.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f61761b0-65c6-4497-a7b3-82b2387fcd62/NIKE+REACT+VISION.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5664fdde-a61c-4a31-b0ed-6cbd5b786371/NIKE+REACT+VISION.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4b17b3fc-922e-4b68-8d5c-1648853ee0ee/NIKE+REACT+VISION.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/38279596-c954-4e9d-8e8d-9369dc7832d9/NIKE+REACT+VISION.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b138b896-6259-407d-b04f-454a1943bcb8/NIKE+REACT+VISION.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "modello": "Nike Air Max 95",
+      "colori": [
+        {
+          "colore": "grigio",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d4c31751-aa66-45da-a4c3-e10308e1ce6d/NIKE+AIR+MAX+95.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/38f40aba-89b0-45dc-a147-d3cf086b3492/NIKE+AIR+MAX+95.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/216aa685-466f-441b-a2cd-88f3cfd0302e/NIKE+AIR+MAX+95.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a4198d8e-dad7-4570-9803-e6f897ea7f4d/NIKE+AIR+MAX+95.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/73daf6c1-afbc-4ea8-808a-c2470120e42f/NIKE+AIR+MAX+95.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/64b1fdff-ac1a-4117-b9c3-12733d212f54/NIKE+AIR+MAX+95.png"
+          ]
+        },
+        {
+          "colore": "nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/017c292a-30be-45c2-995a-8bfac78abaad/NIKE+AIR+MAX+95.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4af9a856-f407-4ff0-b894-01a79a94de95/NIKE+AIR+MAX+95.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ddd0a10a-a674-498d-9a5a-39740f33973d/NIKE+AIR+MAX+95.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6d59697e-692c-460d-9923-d558e85ddadd/NIKE+AIR+MAX+95.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/778b15a1-a380-46f3-9f67-3775fe4e7338/NIKE+AIR+MAX+95.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1117af6e-949d-400f-a7bb-bc9e8acb062b/NIKE+AIR+MAX+95.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "modello": "Nike Air Zoom Winflo 8",
+      "colori": [
+        {
+          "colore": "bianco",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/517279c6-3e84-4669-9fb8-e69219b39702/NIKE+AIR+WINFLO+11.png",
+          "foto": [
+            "https://static.nike.com.cn/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/a9a5a7c7-6cf5-4030-9b17-f59828c82ffc/winflo-11-%E7%94%B7%E5%AD%90%E9%80%8F%E6%B0%94%E5%85%AC%E8%B7%AF%E8%B7%91%E6%AD%A5%E9%9E%8B-LqZgc3.png",
+            "https://static.nike.com.cn/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/fcfd9420-5083-4a0e-b08f-b8d160a83b4f/winflo-11-%E7%94%B7%E5%AD%90%E9%80%8F%E6%B0%94%E5%85%AC%E8%B7%AF%E8%B7%91%E6%AD%A5%E9%9E%8B-LqZgc3.png",
+            "https://static.nike.com.cn/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/af69863b-3985-42bf-936d-592459b6ae57/winflo-11-%E7%94%B7%E5%AD%90%E9%80%8F%E6%B0%94%E5%85%AC%E8%B7%AF%E8%B7%91%E6%AD%A5%E9%9E%8B-LqZgc3.png",
+            "https://static.nike.com.cn/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/027468d4-bc0c-46ff-a20b-c81c28238d70/winflo-11-%E7%94%B7%E5%AD%90%E9%80%8F%E6%B0%94%E5%85%AC%E8%B7%AF%E8%B7%91%E6%AD%A5%E9%9E%8B-LqZgc3.png",
+            "https://static.nike.com.cn/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/b43721e0-1071-4cee-ae6c-c5733a709d79/winflo-11-%E7%94%B7%E5%AD%90%E9%80%8F%E6%B0%94%E5%85%AC%E8%B7%AF%E8%B7%91%E6%AD%A5%E9%9E%8B-LqZgc3.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "modello": "Nike Air Force 1 React",
+      "colori": [
+        {
+          "colore": "nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/wlbprwbqo3agvyihaobd/AIR+FORCE+1+JEWEL.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/liypyj87ibhcbozoohkg/AIR+FORCE+1+JEWEL.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/eu1hhx7haxmv02bhltkm/AIR+FORCE+1+JEWEL.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/zevut8cjy2wbi0b4l6gy/AIR+FORCE+1+JEWEL.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/sjbjxzhgj1ot6jpgxuq0/AIR+FORCE+1+JEWEL.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/o39q9nbwz6ltppnjfmam/AIR+FORCE+1+JEWEL.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "modello": "Nike Air Max Bella TR 4",
+      "colori": [
+        {
+          "colore": "rosa",
+          "fotoCopertina": "https://imgnike-a.akamaihd.net/768x768/0228113XA8.jpg",
+          "foto": [
+            "https://imgnike-a.akamaihd.net/768x768/0228113XA2.jpg",
+            "https://imgnike-a.akamaihd.net/768x768/0228113XA3.jpg",
+            "https://imgnike-a.akamaihd.net/768x768/0228113XA4.jpg",
+            "https://imgnike-a.akamaihd.net/768x768/0228113XA5.jpg",
+            "https://imgnike-a.akamaihd.net/768x768/0228113XA6.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "modello": "Nike Air Max Plus",
+      "colori": [
+        {
+          "colore": "grigio",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/db4c5180-289a-48c0-8c02-7d7e98b2047b/W+AIR+MAX+PLUS.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ed423cca-8ca0-4a29-a0ea-89c038767eb6/W+AIR+MAX+PLUS.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/973cb3ce-3742-4084-a4cf-0bd034ab260b/W+AIR+MAX+PLUS.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/63921e3e-80b9-4a2c-ba7b-c94f8999f1f3/W+AIR+MAX+PLUS.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a6c163f4-445f-4289-adbc-f5a68b9b3773/W+AIR+MAX+PLUS.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/09b51804-6c82-4223-b3ed-fc8f3d715467/W+AIR+MAX+PLUS.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "modello": "Nike Air Zoom Tempo Next%",
+      "colori": [
+        {
+          "colore": "blu",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bf983ae4-ad35-4596-856f-c02a5239a61a/NIKE+AIR+ZOOM+LJ+ELITE.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/207b02ed-9982-4554-8b0a-da3eda345dfd/NIKE+AIR+ZOOM+LJ+ELITE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8b365826-6cc0-4110-94ca-0c8b52761b89/NIKE+AIR+ZOOM+LJ+ELITE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/19bc1a0a-38ca-41ea-9676-84982d8cc03a/NIKE+AIR+ZOOM+LJ+ELITE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c8244d13-d56d-4c65-8177-0f96506fce5f/NIKE+AIR+ZOOM+LJ+ELITE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0e9b78c8-f50d-45b5-9d82-82c59a73d8ec/NIKE+AIR+ZOOM+LJ+ELITE.png"
+          ]
+        },
+        {
+          "colore": "nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f326736f-1b98-4b24-bdcb-cd3f69dfa896/NIKE+AIR+ZOOM+LJ+ELITE.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/63ed80b3-4ae1-4c91-820c-8eca3e5d8954/NIKE+AIR+ZOOM+LJ+ELITE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/04670f85-f629-4a7b-b1ee-35e6175fc77c/NIKE+AIR+ZOOM+LJ+ELITE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b57acfd4-475f-4812-b23c-2d5a9167cdb2/NIKE+AIR+ZOOM+LJ+ELITE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1f0d8cb5-2ba5-47ac-8361-54303c2c9eac/NIKE+AIR+ZOOM+LJ+ELITE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4c9ec34e-3195-4e8c-adfe-3145e4299fa3/NIKE+AIR+ZOOM+LJ+ELITE.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "modello": "Nike Air Force 1 Low",
+      "colori": [
+        {
+          "colore": "marrone",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/12897b2e-23b0-455a-8886-23854626bfd2/AIR+FORCE+1+LV8+3+%28GS%29.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/dd098522-23b0-4d0c-84b8-69c36be4861a/AIR+FORCE+1+LV8+3+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bb05c52e-141f-458a-b76e-3f2ebc555112/AIR+FORCE+1+LV8+3+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9f364436-abdd-4f5b-bd1e-ac08b9a4335f/AIR+FORCE+1+LV8+3+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/087ebcbe-d5e0-4c96-8fd4-1d869584b326/AIR+FORCE+1+LV8+3+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/40866f7b-10dd-403a-9003-be69d8a11622/AIR+FORCE+1+LV8+3+%28GS%29.png"
+          ]
+        },
+        {
+          "colore": "verde",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ad01ea98-46b8-4c1d-a98c-90c4b15a91be/AIR+FORCE+1+LV8+3+%28GS%29.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9c2d4db9-23d7-4b32-9889-19dd9faea34b/AIR+FORCE+1+LV8+3+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b3f99e91-2974-4ffd-8c67-15de4cf508da/AIR+FORCE+1+LV8+3+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3d6cb9e9-526e-4f40-9a78-8d6daeb49059/AIR+FORCE+1+LV8+3+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1c4a8df2-2c8d-4f9d-b1ee-f0a9bc3041ef/AIR+FORCE+1+LV8+3+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/35dc5e26-ea8a-4010-ba17-9a1ff610d492/AIR+FORCE+1+LV8+3+%28GS%29.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "modello": "Nike Air Zoom Alphafly NEXT%",
+      "colori": [
+        {
+          "colore": "bianco",
+          "fotoCopertina": "https://www.nike.com/za/t/alphafly-3-proto-road-racing-shoes-vNzQdQ",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b3eaa3b3-9a4e-4267-b805-32e36944566b/ALPHAFLY+NEXT%25+3+PROTO.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5c402be1-2ffe-4a09-bcbd-789cf1e249f3/ALPHAFLY+NEXT%25+3+PROTO.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/01e701c6-5916-469d-a98b-d85121848be8/ALPHAFLY+NEXT%25+3+PROTO.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1bb9c437-cff0-4f23-9c87-45146f4ea796/ALPHAFLY+NEXT%25+3+PROTO.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/07d4a254-cd5f-49e1-becd-e856aa487dba/ALPHAFLY+NEXT%25+3+PROTO.png"
+          ]
+        }
+      ],
+      "video": "https://static.nike.com/a/videos/q_90/5d9a1642-71fe-4e39-8dbc-ae79da6b9c09/video.mp4"
+    },
+    {
+      "id": 39,
+      "modello": "Nike Air Max 1",
+      "colori": [
+        {
+          "colore": "grigio",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3e5d38a0-6d39-4698-938b-488e80068c8b/NIKE+AIR+MAX+1.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1f892b84-14b8-43d3-9ae1-86ee58ffe9f0/NIKE+AIR+MAX+1.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3ec651cb-7445-400d-9a90-761a6ca262da/NIKE+AIR+MAX+1.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5cb050c6-3205-41b1-8cfc-dc7a63ea17cc/NIKE+AIR+MAX+1.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/56559842-810e-4668-b04f-2afda13370ea/NIKE+AIR+MAX+1.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e8230038-6095-4f87-a864-8cf74091ab15/NIKE+AIR+MAX+1.png"
+          ]
+        },
+        {
+          "colore": "giallo",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9ccf4d80-052e-4639-bbf1-73b05c91824a/NIKE+AIR+MAX+1+ESS.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0a390043-8405-46b6-a785-15eeded8001a/NIKE+AIR+MAX+1+ESS.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bd9308a9-29cf-4874-ba94-91d9aeaf5d63/NIKE+AIR+MAX+1+ESS.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1fdaf59c-5adf-4eb0-8307-bfaaf52e97c7/NIKE+AIR+MAX+1+ESS.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/93c739f6-8064-4ab2-ab6a-b9361347601a/NIKE+AIR+MAX+1+ESS.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0a904aef-832c-4cff-9857-109775af40ef/NIKE+AIR+MAX+1+ESS.png"
+          ]
+        },
+        {
+          "colore": "marrone",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3d6ccf1f-4675-45ce-ad52-01542b146d0d/NIKE+AIR+MAX+1+ESS.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f28b8a01-7943-418a-8753-041c8c93e98e/NIKE+AIR+MAX+1+ESS.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/cd601fa8-ff36-4066-b074-3830e5dad510/NIKE+AIR+MAX+1+ESS.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e23a9c35-d2de-448e-97bd-1b4806ff3913/NIKE+AIR+MAX+1+ESS.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8ca26fd5-bf6e-44ca-9fab-a37e9eaa6cc0/NIKE+AIR+MAX+1+ESS.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ef07526e-7d9d-4f1b-bd3a-3a216eed5865/NIKE+AIR+MAX+1+ESS.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "modello": "Nike Air Max Plus 2",
+      "colori": [
+        {
+          "colore": "nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/wbatnncdieqtbsfar8mr/NIKE+AIR+MAX+PLUS+%28PS%29.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/n0t2t0vbgeyfwxqdamks/NIKE+AIR+MAX+PLUS+%28PS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/qbif1o7h52nkk9mgf6hb/NIKE+AIR+MAX+PLUS+%28PS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/pov8a8qgwrjrcomjpqpi/NIKE+AIR+MAX+PLUS+%28PS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/gtbfjistmygi1ksxhswm/NIKE+AIR+MAX+PLUS+%28PS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/rn4lejcrfloczezxje6u/NIKE+AIR+MAX+PLUS+%28PS%29.png"
+          ]
+        }
+      ],
+      "video": "https://static.nike.com/a/videos/q_90/b11a86ad-9dcf-42f9-a22a-64ead95760dd/video.mp4"
+    },
+    {
+      "id": 41,
+      "modello": "Nike Air Max 720",
+      "colori": [
+        {
+          "colore": "nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/gorfwjchoasrrzr1fggt/AIR+MAX+270.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/689d9244-f280-4e6e-a866-f068c34050d8/W+AIR+MAX+270.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/44fdb67b-6626-4463-85e3-8c181c75c8b1/W+AIR+MAX+270.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/162a3c7d-d32b-46dd-b9d1-631494f6f2db/W+AIR+MAX+270.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/901018cd-e5e7-4081-8dfe-7e49ed1dae95/W+AIR+MAX+270.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4690b45f-7865-4bc7-ab24-3f61a888c58a/W+AIR+MAX+270.png"
+          ]
+        },
+        {
+          "colore": "bianco/nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/csnnsvmzomr1gu7qfcnd/W+AIR+MAX+270.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ycbz7unfspsufwegt3e7/W+AIR+MAX+270.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/xc4lhjjrnaloawtlpwhf/W+AIR+MAX+270.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/l0ygc6xwmb5esfiln14k/W+AIR+MAX+270.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e8mdvzifyghkojpgpuyp/W+AIR+MAX+270.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/k8lilkbvc7ahppv9jlci/W+AIR+MAX+270.png"
+          ]
+        },
+        {
+          "colore": "bianco",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/pyyixbczj6u5kiwhpjik/W+AIR+MAX+270.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4cc89daa-c394-4ad4-9214-262f9b1a065a/W+AIR+MAX+270.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/duyf28wd0kct2b4ol4xf/W+AIR+MAX+270.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/kwbianpnd3r0enjw7xq8/W+AIR+MAX+270.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/g8vd0obziukibvfpbm0t/W+AIR+MAX+270.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3fa05e11-6264-4041-8f1e-7a2320861cee/W+AIR+MAX+270.png"
+          ]
+        }
+      ],
+      "video": "https://static.nike.com/a/videos/q_90/lwlxlvsag1e3oq8evvae/video.mp4"
+    },
+    {
+      "id": 42,
+      "modello": "Nike Air Zoom Victory",
+      "colori": [
+        {
+          "colore": "bianco",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6fef43e2-7b9c-4eb3-8d14-decc070e7247/AIR+ZOOM+VICTORY+TOUR+3.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b0db85d0-b141-41e6-97e1-fc9c330c026b/AIR+ZOOM+VICTORY+TOUR+3.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a4431af4-b001-45f8-8cad-892dbdb56584/AIR+ZOOM+VICTORY+TOUR+3.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7e6b380e-ea79-4374-a022-51d6105f21fa/AIR+ZOOM+VICTORY+TOUR+3.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a4ccf1e1-de15-4498-b84d-198181ff0c16/AIR+ZOOM+VICTORY+TOUR+3.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/162eaf1b-7ad8-4b8f-a7ea-40e0dee3328d/AIR+ZOOM+VICTORY+TOUR+3.png"
+          ]
+        },
+        {
+          "colore": "nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/199d59da-e2bd-455c-81d7-59921b46ea76/AIR+ZOOM+VICTORY+TOUR+3.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/53d5622b-b80a-4df3-b386-6b3dcaef769b/AIR+ZOOM+VICTORY+TOUR+3.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/576aaffe-8ff9-4a50-a35a-5d37638267ba/AIR+ZOOM+VICTORY+TOUR+3.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f9a86ac8-4103-4ae3-a060-d51eca1a9bc1/AIR+ZOOM+VICTORY+TOUR+3.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a79ded24-4c09-4de6-a70f-f9be82f798c3/AIR+ZOOM+VICTORY+TOUR+3.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f4c69602-f215-4273-a62c-c2fed839d4ce/AIR+ZOOM+VICTORY+TOUR+3.png"
+          ]
+        }
+      ],
+      "video": "https://static.nike.com/a/videos/q_90/89737854-b519-4986-8af4-79200d9e8c21/video.mp4"
+    },
+    {
+      "id": 43,
+      "modello": "Nike Air Force 1 High",
+      "colori": [
+        {
+          "colore": "marrone",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bfe3802e-6c01-479b-99da-f3943092cc4d/NIKE+COURT+VISION+MID+WNTR.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/495c9529-6914-4f00-babc-ebc57e754013/NIKE+COURT+VISION+MID+WNTR.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/03a841e7-8b6a-4e84-8af2-784948567ef4/NIKE+COURT+VISION+MID+WNTR.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3fcbae1b-6725-4ebc-acbf-53f915667ac8/NIKE+COURT+VISION+MID+WNTR.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7a33e83f-815c-4659-85e5-c0fdbae87326/NIKE+COURT+VISION+MID+WNTR.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0d77d9b3-374c-46a7-835f-9103f2c4264b/NIKE+COURT+VISION+MID+WNTR.png"
+          ]
+        }
+      ],
+      "video": "https://static.nike.com/a/videos/q_90/842747c6-40cd-44bf-80cd-e370869c3168/video.mp4"
+    },
+    {
+      "id": 44,
+      "modello": "Nike Free RN 5.0",
+      "colori": [
+        {
+          "colore": "rosso",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/08870a30-2ce4-4cf7-9f48-75daaa4b6284/W+NIKE+FREE+RN+FK+NEXT+NATURE.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ad955df0-ec3c-4913-9746-c18a376a0fd6/W+NIKE+FREE+RN+FK+NEXT+NATURE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f4da7f59-8afb-4615-9a82-f98bb99d24d7/W+NIKE+FREE+RN+FK+NEXT+NATURE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e883918d-869e-4405-bd37-c2032d10e7da/W+NIKE+FREE+RN+FK+NEXT+NATURE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/549b0467-8620-4a06-80cd-49c272116705/W+NIKE+FREE+RN+FK+NEXT+NATURE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0e86b7c2-e794-4b51-b86f-66b43c5d6464/W+NIKE+FREE+RN+FK+NEXT+NATURE.png"
+          ]
+        },
+        {
+          "colore": "bianco/nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/616279ca-74de-4aa0-a969-63907be949b5/W+NIKE+FREE+RN+FK+NEXT+NATURE.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4e2e34bb-96f5-4eb1-a60f-f148c774bdd7/W+NIKE+FREE+RN+FK+NEXT+NATURE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/904cfca0-b592-4c01-9af0-72ac7dea1ea5/W+NIKE+FREE+RN+FK+NEXT+NATURE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/748f053f-b617-4a3c-a441-1de798c6e9dc/W+NIKE+FREE+RN+FK+NEXT+NATURE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2a7ecf82-20f0-4b9d-8eba-a855f742adbf/W+NIKE+FREE+RN+FK+NEXT+NATURE.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0eba7f87-65f2-4606-882f-8678a36631a1/W+NIKE+FREE+RN+FK+NEXT+NATURE.png"
+          ]
+        }
+      ],
+      "video": "https://static.nike.com/a/videos/q_90/8336b57c-fe57-4983-a454-67a32014bf44/video.mp4"
+    },
+    {
+      "id": 45,
+      "modello": "Nike Air Max Sequent 3",
+      "colori": [
+        {
+          "colore": "blu",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4c2a029e-fa64-4ef2-8dcb-4b1604e471a4/AIR+MAX+DN+%2724+OLY+%28GS%29.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/02241fef-bfda-4fd2-b3d1-4994ec465728/AIR+MAX+DN+%2724+OLY+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/178b5bbc-c629-417d-bfef-3ebacbf6559f/AIR+MAX+DN+%2724+OLY+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2e30b25d-0c61-4ae6-b300-f2df93a21379/AIR+MAX+DN+%2724+OLY+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4ebf32ca-0303-473c-afd5-9fc65ac19de0/AIR+MAX+DN+%2724+OLY+%28GS%29.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b91e0edf-2c0c-42d5-b7c2-8492f53db36c/AIR+MAX+DN+%2724+OLY+%28GS%29.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "modello": "Nike Air Zoom Freak 1",
+      "colori": [
+        {
+          "colore": "giallo",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/536e8ea1-3438-4b92-98ce-b9a6e13cb7cf/GIANNIS+IMMORTALITY+3.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/17b742d5-c028-4f64-81ba-2eade67ca771/GIANNIS+IMMORTALITY+3.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2ffc5a99-2a8f-4e87-a36c-5cbb205f1295/GIANNIS+IMMORTALITY+3.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/42efcfa5-9e69-4c61-bc90-0f85bc6bdafb/GIANNIS+IMMORTALITY+3.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d0bb44d4-7835-40d3-83df-9dbeb8b9a6e4/GIANNIS+IMMORTALITY+3.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/88adde20-5e39-4def-a21c-19244fa7e820/GIANNIS+IMMORTALITY+3.png"
+          ]
+        },
+        {
+          "colore": "blu",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3d96eab7-925e-4ecf-8819-2d6f4e8ac65d/GIANNIS+IMMORTALITY+3.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f041084d-ff00-4cf2-9624-5484e679401f/GIANNIS+IMMORTALITY+3.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/60856a31-ded0-4895-9333-d718fa1bff37/GIANNIS+IMMORTALITY+3.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/132571b9-2002-4a05-96c9-2a44a94c6c7e/GIANNIS+IMMORTALITY+3.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6eb692d0-0a4e-4f3f-8d67-0d577c5b961a/GIANNIS+IMMORTALITY+3.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/61a56d3d-b1c6-4a06-bb43-6af2cdb62396/GIANNIS+IMMORTALITY+3.png"
+          ]
+        },
+        {
+          "colore": "bianco",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/78f7c5c0-0f63-4d47-a29c-8523cbc10cc7/GIANNIS+IMMORTALITY+3.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8f69eaa0-77d7-4225-b42c-c59f4e5a9797/GIANNIS+IMMORTALITY+3.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/787a074b-4718-4c50-8f27-24abe96d16c1/GIANNIS+IMMORTALITY+3.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5415c892-8228-4ba1-8bc3-e680fd66f02e/GIANNIS+IMMORTALITY+3.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b5740e81-929d-470b-9744-51d5ce27aaeb/GIANNIS+IMMORTALITY+3.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/60804cec-c943-4198-9b7b-121f3c8a85d7/GIANNIS+IMMORTALITY+3.png"
+          ]
+        },
+        {
+          "colore": "nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fb957edb-7c2c-4173-a439-ca31c200ebb3/GIANNIS+IMMORTALITY+3.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/18cafa6b-c70a-45c1-9aea-108d3d43beb7/GIANNIS+IMMORTALITY+3.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/30c5b32b-35e9-40a2-a9e6-1a8b091715d1/GIANNIS+IMMORTALITY+3.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/32106b07-0b8f-41ae-b9ec-c7efb5800d82/GIANNIS+IMMORTALITY+3.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1754995c-88fa-4c96-bb29-cec3949a6b89/GIANNIS+IMMORTALITY+3.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8a9d3bc8-6ad9-417f-9d05-b493775b10b0/GIANNIS+IMMORTALITY+3.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "modello": "Nike Air Max 98",
+      "colori": [
+        {
+          "colore": "nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e20484c2-2b66-4124-b692-ad132a4ef9a5/NIKE+AIR+MAX+95+ESSENTIAL.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/cefa2fab-9350-47ae-8e2d-6cf9d1d9ec96/NIKE+AIR+MAX+95+ESSENTIAL.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9f3333b0-ecef-4946-8b8c-a4cda1a0d507/NIKE+AIR+MAX+95+ESSENTIAL.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/dc8ce232-7a05-4a7c-b7fd-65d9e6f39c6d/NIKE+AIR+MAX+95+ESSENTIAL.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/aa70e4ff-6fbd-4b44-9153-ed94656029b7/NIKE+AIR+MAX+95+ESSENTIAL.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e32a4550-140f-444f-9857-9c2dd5331230/NIKE+AIR+MAX+95+ESSENTIAL.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "modello": "ike Zoom Freak 2",
+      "colori": [
+        {
+          "colore": "giallo",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9b469d1c-aacb-43e7-8902-f801f5b85dc5/NIKE+PRECISION+VII.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/059fc296-9215-42b7-9530-d9152efd2f7f/NIKE+PRECISION+VII.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c834c8de-113b-43ff-be4d-3f690ec313d5/NIKE+PRECISION+VII.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9e5ecfa1-3d45-4dea-abe2-c354af8ce845/NIKE+PRECISION+VII.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b9f60746-d18f-4b60-93f0-d0a09b9e661c/NIKE+PRECISION+VII.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/cf78a6ee-f2aa-43b2-a06b-da2ffbb083bc/NIKE+PRECISION+VII.png"
+          ]
+        }
+      ],
+      "video": "https://static.nike.com/a/videos/q_90/f343f35a-a9e9-4637-b468-f69dd83d79e7/video.mp4"
+    },
+    {
+      "id": 49,
+      "modello": "Nike Air Max Axis",
+      "colori": [
+        {
+          "colore": "nero",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1d7353c0-b7e7-4984-8eef-0844f9f84f39/NIKE+ISPA+LINK+AXIS.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/63a1b08e-70b7-4dbe-8f2b-4d2b1fa3d020/ispa-link-axis-black-and-anthracite-fz3507-002-release-date.jpg",
+            "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/53312683-3cc7-45c6-9548-fb7a890b56b7/ispa-link-axis-black-and-anthracite-fz3507-002-release-date.jpg",
+            "https://static.nike.com/a/images/t_prod_sc/w_480,c_limit,f_auto,q_auto/8b9814b9-7268-47a5-8bbb-90f0750abbb5/ispa-link-axis-black-and-anthracite-fz3507-002-release-date.jpg",
+            "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/e6999590-e379-4db2-bb30-3adf81188614/ispa-link-axis-black-and-anthracite-fz3507-002-release-date.jpg",
+            "https://static.nike.com/a/images/t_prod_ss/w_480,c_limit,f_auto,q_auto/99e54b49-8519-4bcd-9d40-313757e90994/ispa-link-axis-black-and-anthracite-fz3507-002-release-date.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "modello": "Nike Zoom Pegasus Turbo 2",
+      "colori": [
+        {
+          "colore": "rosa",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2224a688-afe4-4a5d-b6bf-9c3532904335/NIKE+ZOOMX+ZEGAMA+TRAIL+2.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4fd6053a-2405-479a-9975-8ecc12dd59aa/NIKE+ZOOMX+ZEGAMA+TRAIL+2.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3281f1fc-3d01-4223-8bd8-592232e2ece6/NIKE+ZOOMX+ZEGAMA+TRAIL+2.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/89f1899e-1e34-4b0e-895d-bf2d62566a81/NIKE+ZOOMX+ZEGAMA+TRAIL+2.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7cd2b661-bf3c-42c5-b6df-17ad91267560/NIKE+ZOOMX+ZEGAMA+TRAIL+2.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/055d9a8e-2f92-46d5-9662-c0a414a8274c/NIKE+ZOOMX+ZEGAMA+TRAIL+2.png"
+          ]
+        },
+        {
+          "colore": "grigio",
+          "fotoCopertina": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4e25b62d-aa68-42a7-aa48-f2f4c1977a01/NIKE+ZOOMX+ZEGAMA+TRAIL+2.png",
+          "foto": [
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c47925dc-eec8-4e4f-841e-33281471635c/NIKE+ZOOMX+ZEGAMA+TRAIL+2.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/87563397-cac7-4ff2-a56e-b791871ba4b8/NIKE+ZOOMX+ZEGAMA+TRAIL+2.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c6f420f4-96e1-47a1-a555-881e6cbea0e7/NIKE+ZOOMX+ZEGAMA+TRAIL+2.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9059434b-50d4-457d-a34a-86629f24a9a8/NIKE+ZOOMX+ZEGAMA+TRAIL+2.png",
+            "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6c87212c-2044-46da-acf3-8b92afdec879/NIKE+ZOOMX+ZEGAMA+TRAIL+2.png"
+          ]
+        }
+      ]
+    }
+  ],
+  "spedizione": [
+    {
+      "formIndirizzo": {
+        "nome": "Federica",
+        "cognome": "Chiantini",
+        "indirizzo": {
+          "via": "via Dario Dondanelli, 6",
+          "cap": "00100",
+          "citta": "Roma",
+          "provincia": "Rm",
+          "nazione": "Italia"
+        },
+        "email": "fede.chi@gmail.com",
+        "tel": "3356743453"
+      },
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "fede.chi@gmail.com",
+      "password": "$2a$10$t3fUmfnkAbpac10g16knHu9z/rGhjbWMf9E1nuD61zvJAzgkG4Bna",
+      "nome": "Federica",
+      "cognome": "Chiantini",
+      "tel": "3356743453",
+      "via": "via Dario Dondanelli, 6",
+      "cap": "00100",
+      "citta": "Roma",
+      "provincia": "Rm",
+      "nazione": "Italia",
+      "id": 1
+    },
+    {
+      "email": "PinoVedri@gmail.com",
+      "password": "$2a$10$wGVWdB5Om5tbureSvCswGOvjFFODKjL6NC52au24R0W1Ap62fOAym",
+      "nome": "Pino",
+      "cognome": "Verdi",
+      "tel": "3382234104",
+      "via": "viale Alberto Maria Manna, 34",
+      "cap": "98763",
+      "citta": "Torino",
+      "provincia": "TO",
+      "nazione": "Italia",
+      "id": 2
+    },
+    {
+      "email": "Gi.Due@gmail.com",
+      "password": "$2a$10$KyL0T9n3/KGqcvLbo3dYDeahJUxITDuq3fq3zriHtbXBl9nJDA09e",
+      "nome": "Gino",
+      "cognome": "Rossini",
+      "tel": "3337119345",
+      "via": "viale Alberto Maria Manna, 34",
+      "cap": "98763",
+      "citta": "Torino",
+      "provincia": "TO",
+      "nazione": "Italy",
+      "id": 3
+    }
+  ],
+  "details": [
+    {
+      "email": "fede.chi@gmail.com",
+      "nome": "Federica",
+      "cognome": "Chiantini",
+      "tel": "3356743453",
+      "via": "via Dario Dondanelli, 6",
+      "cap": "00100",
+      "citta": "Roma",
+      "provincia": "Rm",
+      "nazione": "Italia",
+      "id": 1
+    },
+    {
+      "nome": "Pino",
+      "cognome": "Verdi",
+      "password": "duetto",
+      "email": "PinoVedri@gmail.com",
+      "tel": "3382234104",
+      "via": "viale Alberto Maria Manna, 34",
+      "cap": "98763",
+      "citta": "Torino",
+      "provincia": "TO",
+      "nazione": "Italia",
+      "id": 2
+    },
+    {
+      "nome": "Gino",
+      "cognome": "Rossini",
+      "email": "Gi.Due@gmail.com",
+      "tel": "3337119345",
+      "via": "viale Alberto Maria Manna, 34",
+      "cap": "98763",
+      "citta": "Torino",
+      "provincia": "TO",
+      "nazione": "Italy",
+      "id": 3
+    }
+  ]
+}
